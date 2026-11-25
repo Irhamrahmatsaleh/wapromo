@@ -1,0 +1,984 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "localeName": "English",
+  "flag": "🌐",
+  "meta": {
+    "title": "WhatsApp Broadcast & Bulk Messaging Platform | WAPromo",
+    "description": "High-speed WhatsApp broadcast, shared team inbox, and bulk promo messaging platform for businesses. Lightweight, ultra-fast, and secure.",
+    "keywords": [
+      "whatsapp broadcast",
+      "whatsapp blast",
+      "bulk whatsapp sender",
+      "whatsapp team inbox",
+      "bulk message whatsapp",
+      "whatsapp crm",
+      "wapromo"
+    ],
+    "ogTitle": "WhatsApp Broadcast & Bulk Messaging Platform | WAPromo",
+    "ogDescription": "High-speed WhatsApp broadcast, shared team inbox, and bulk promo messaging platform for businesses. Lightweight, fast, and secure."
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "howItWorks": "How it Works",
+    "pricing": "Pricing",
+    "api": "API",
+    "resource": "Resources",
+    "help": "Help Center",
+    "blog": "Blog",
+    "ebook": "E-Book",
+    "login": "Sign in",
+    "signup": "Get Started",
+    "language": "Select Language",
+    "menu": "Open navigation menu",
+    "closeMenu": "Close navigation menu"
+  },
+  "auth": {
+    "loginTitle": "Sign in as",
+    "signupTitle": "Get started as",
+    "description": "Choose the role that matches your account.",
+    "owner": "Business owner",
+    "ownerDescription": "Manage your business, WhatsApp number, and team.",
+    "customerService": "Customer service agent",
+    "customerServiceDescription": "Handle customer conversations as part of the team.",
+    "close": "Close",
+    "next": "Next"
+  },
+  "theme": {
+    "label": "Theme",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "hero": {
+    "eyebrow": "● WHATSAPP BROADCAST & TEAM INBOX",
+    "titleLine1": "WhatsApp Broadcast Platform &",
+    "titleLine2": "Smart Business Messaging",
+    "lead": "Send bulk promotional broadcasts, manage conversations with your CS team, and accelerate business sales smoothly.",
+    "ctaPrimary": "Try it free",
+    "ctaSecondary": "See How it Works",
+    "note": "✓ Progressive store setup, starting with Owner"
+  },
+  "metrics": [
+    {
+      "value": "98%",
+      "label": "Average Message Open Rate"
+    },
+    {
+      "value": "10M+",
+      "label": "Broadcast Messages Sent Monthly"
+    },
+    {
+      "value": "3,500+",
+      "label": "Active Growing Businesses"
+    },
+    {
+      "value": "< 1 Min",
+      "label": "Average Support Response Time"
+    }
+  ],
+  "preview": {
+    "title": "WAPromo · Team Inbox",
+    "workspace": "WORKSPACE",
+    "sideActive": "● Team inbox",
+    "contacts": "Contacts",
+    "broadcast": "Broadcast",
+    "personal": "Personal",
+    "teamMembers": "TEAM MEMBERS",
+    "unread": "3 unread",
+    "chatName": "Sarah Johnson",
+    "chatPreview": "Hello, is this discount...",
+    "chatActive": "WhatsApp · Active",
+    "chatIncoming": "Hello! Is this promotional discount still available today?",
+    "chatOutgoing": "Yes, absolutely! We can process your order right away. Which variant would you like?",
+    "replyPlaceholder": "Write reply as Team...",
+    "sendButton": "Send",
+    "chat2Name": "Ricky Adams",
+    "chat2Preview": "Is the promo still available?",
+    "chat3Name": "Sarah Wilson",
+    "chat3Preview": "Thank you so much!",
+    "broadcastBadge": "Broadcast Completed",
+    "broadcastStat": "1,450 / 1,450 Contacts (99.8%)",
+    "closingBadge": "Order Closed",
+    "closingAmount": "$48.00",
+    "leadTag": "Hot Lead 🔥",
+    "agentAssigned": "CS Sarah",
+    "quickReply": "Promo Template",
+    "closingStatus": "Paid",
+    "liveBadge": "LIVE"
+  },
+  "comparison": {
+    "eyebrow": "WHY CHOOSE WAPROMO",
+    "heading": "Leave Behind Outdated Methods That Risk Number Bans & Lost Sales",
+    "subheading": "Compare how WAPromo safeguards your business assets and multiplies your team's sales velocity.",
+    "oldWayTitle": "Manual & Legacy Ways",
+    "oldWayBadge": "OUTDATED & RISKY METHOD",
+    "oldWayItems": [
+      "Manual Blast Copy-Paste: Slow, exhausting, and triggers WhatsApp spam bans",
+      "Agent Collision: Multiple reps fight over the exact same customer conversations",
+      "Buried Midnight Chats: Hot prospect inquiries go unanswered after business hours",
+      "Zero Visibility: Business owners cannot track response times or agent performance"
+    ],
+    "newWayTitle": "With WAPromo",
+    "recommendedBadge": "RECOMMENDED MODERN CHOICE",
+    "newWayItems": [
+      "Smart Anti-Banned & Spintax: Safely deliver thousands of messages with natural delays",
+      "One Number for All Agents: Shared inbox with automated ticket routing and zero conflict",
+      "24/7 Automated Broadcasts: Scheduled campaigns and auto-replies driving sales nonstop",
+      "Real-Time Analytics: Comprehensive dashboard tracking delivery, CS speed, and revenue"
+    ]
+  },
+  "features": {
+    "heading": "One store. One shared inbox. Clear team responsibility.",
+    "subheading": "Start with Owner, verify your business, then invite your support agents securely.",
+    "items": [
+      {
+        "icon": "phone",
+        "title": "Single WhatsApp number",
+        "text": "Connect your business number and manage all incoming conversations from one unified dashboard.",
+        "action": "Connect now"
+      },
+      {
+        "icon": "team",
+        "title": "Dedicated agent accounts",
+        "text": "Every team member gets their own workspace account. Conversation ownership stays clear and traceable.",
+        "action": "Manage team"
+      },
+      {
+        "icon": "sync",
+        "title": "Realtime anti-collision",
+        "text": "Instant status synchronization prevents multiple agents from overlapping on the same customer.",
+        "action": "See how it works"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "SIMPLE TRANSPARENT PRICING",
+    "heading": "Predictable Plans Built for Every Business Scale",
+    "subheading": "All plans include a full 14-day free trial. Cancel anytime with zero questions asked.",
+    "period": "/month",
+    "popularBadge": "Most Popular",
+    "plans": [
+      {
+        "name": "Starter",
+        "desc": "Ideal for solo entrepreneurs and growing shops launching broadcasts.",
+        "price": "$19",
+        "popular": false,
+        "cta": "Start 14-Day Free Trial",
+        "features": [
+          "1 Official WhatsApp Number",
+          "Up to 5 Agent Seats",
+          "5,000 Saved Contacts",
+          "Smart Anti-Banned Delay",
+          "Real-time Shared Team Inbox",
+          "Community Support"
+        ]
+      },
+      {
+        "name": "Business Pro",
+        "desc": "The top choice for teams scaling customer support and automated outreach.",
+        "price": "$39",
+        "popular": true,
+        "cta": "Start Free Trial",
+        "features": [
+          "1 Official WhatsApp Number",
+          "Up to 10 Agent Seats Max",
+          "Unlimited Saved Contacts",
+          "Smart Delay + Spintax Word Variation",
+          "Auto-Responders & Scheduled Campaigns",
+          "Broadcast & Agent Analytics",
+          "24/7 Priority Support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "desc": "Dedicated infrastructure for high-volume enterprises and multi-branch brands.",
+        "price": "$89",
+        "popular": false,
+        "cta": "Contact Sales",
+        "features": [
+          "Multiple WhatsApp Numbers",
+          "Unlimited Agent Seats & Branches",
+          "Unlimited Bulk Broadcasts",
+          "Dedicated API & Webhooks Access",
+          "Custom CRM / ERP Integration",
+          "Dedicated Account Manager",
+          "99.9% Uptime Guarantee SLA"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+    "heading": "Clear Answers to Common Questions",
+    "subheading": "Everything you need to know before accelerating your WhatsApp revenue.",
+    "items": [
+      {
+        "question": "Is my WhatsApp number protected from spam bans?",
+        "answer": "Yes, absolutely. WAPromo utilizes proprietary Smart Delay algorithms and dynamic Spintax text variations that mimic natural human messaging, keeping your business account safe from automated spam filters."
+      },
+      {
+        "question": "Do I need a credit card to get started?",
+        "answer": "No credit card required. You can test all features free for 14 days without entering payment details or signing any contract."
+      },
+      {
+        "question": "Can I use my existing active WhatsApp number?",
+        "answer": "Yes. Just scan the QR code from your WhatsApp mobile app like using WhatsApp Web, and your number links instantly without losing your chat history."
+      },
+      {
+        "question": "How long does setup take?",
+        "answer": "Less than 2 minutes! Create your account, scan your QR code, invite your agents, and launch your first broadcast immediately."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "heading": "Ready to Double Your WhatsApp Sales Today?",
+    "subheading": "Join 3,500+ modern businesses managing millions of customer chats safely and effortlessly.",
+    "button": "Start Free Trial Now",
+    "note": "✓ Full 14-day free trial · No credit card required · 2-minute setup"
+  },
+  "apiPage": {
+    "metaTitle": "WhatsApp Business API & Webhooks for Developers",
+    "metaDescription": "Ultra-fast REST API for WhatsApp business messaging. Send instant OTPs, transactional notifications, and real-time webhooks with sub-150ms latency.",
+    "badge": "● DEVELOPER DOCS & REST API",
+    "titleLine1": "Integrate WhatsApp Business API",
+    "titleLine2": "Into Your Application in Minutes",
+    "lead": "Ultra-fast RESTful API engineered for sub-150ms latency. Send instant OTP verification codes, order status alerts, shipping receipts, and 2-way conversation webhooks.",
+    "ctaPrimary": "Get Free API Key",
+    "ctaSecondary": "Explore Code Samples",
+    "stats": {
+      "speed": "< 120ms",
+      "speedLabel": "Average API Message Latency",
+      "uptime": "99.99%",
+      "uptimeLabel": "Enterprise Server Uptime SLA",
+      "freeTier": "1,000 Messages",
+      "freeTierLabel": "Free Monthly Developer Tier"
+    },
+    "codeTitle": "Send Your First WhatsApp Message",
+    "codeSubtitle": "Trigger messages with a standard JSON HTTP POST request to our API endpoint.",
+    "endpointsHeading": "Core API Endpoints",
+    "endpointsSubheading": "Architected with modern RESTful patterns, idempotent requests, and Bearer token security.",
+    "endpoints": [
+      {
+        "method": "POST",
+        "path": "/v1/messages/send",
+        "title": "Send Direct Message",
+        "description": "Deliver personalized text, high-res images, PDF documents, catalogs, or interactive CTA buttons.",
+        "tag": "Most Popular"
+      },
+      {
+        "method": "POST",
+        "path": "/v1/messages/otp",
+        "title": "Send OTP Verification",
+        "description": "High-priority routing queue dedicated to login authentication codes and transaction verifications.",
+        "tag": "High Priority"
+      },
+      {
+        "method": "POST",
+        "path": "/v1/broadcasts",
+        "title": "Schedule Bulk Broadcast",
+        "description": "Trigger bulk campaigns to thousands of contacts with automated anti-ban throttling.",
+        "tag": "High Volume"
+      },
+      {
+        "method": "GET",
+        "path": "/v1/messages/{id}/status",
+        "title": "Check Delivery Status",
+        "description": "Query real-time delivery state: queued, sent, delivered, read, or failed.",
+        "tag": "Real-time"
+      }
+    ],
+    "featuresHeading": "Why Engineers Choose WAPromo API",
+    "featuresSubheading": "High-throughput infrastructure built to handle millions of transactions smoothly.",
+    "features": [
+      {
+        "title": "Smart Anti-Ban Throttling",
+        "description": "Dynamic rate limiting and human-like delivery cadence protects your number from spam detection."
+      },
+      {
+        "title": "Secure Realtime Webhooks",
+        "description": "Receive instant JSON webhooks on your server whenever a customer reads or replies to your chat."
+      },
+      {
+        "title": "Multi-Language SDKs",
+        "description": "Drop-in SDKs and helper libraries for Node.js, Python, PHP, Go, Java, and cURL."
+      },
+      {
+        "title": "Full Audit Logs & Metrics",
+        "description": "Inspect every HTTP request, response status, duration, and error log inside the developer console."
+      }
+    ],
+    "ctaHeading": "Start Building With WhatsApp API Today",
+    "ctaSubheading": "Sign up for a developer account now and claim your 1,000 free sandbox messages.",
+    "ctaButton": "Start Integration Now",
+    "ctaNote": "✓ Instant API key activation · Free sandbox testing · No credit card required"
+  },
+  "nightmare": {
+    "eyebrow": "● THE DAILY CHAOS OF E-COMMERCE",
+    "heading": "Exhausted by WhatsApp Chaos, Missed Orders & Sky-High Bills?",
+    "subheading": "Here are the 4 daily nightmares business owners face before switching to WAPromo.",
+    "items": [
+      {
+        "title": "Agents Colliding on the Same Chat",
+        "desc": "Two reps answer the same customer from different devices, give conflicting prices, fight for commissions, and the customer leaves.",
+        "impact": "Lost sales & internal team friction"
+      },
+      {
+        "title": "Midnight Inquiries Ignored",
+        "desc": "Buyers ask about availability at 11 PM while your team is asleep. By morning, they have already bought from your competitor.",
+        "impact": "Losing 30%-40% of potential daily revenue"
+      },
+      {
+        "title": "High Per-Message Tariffs",
+        "desc": "Conventional providers charge fees for every single chat bubble. Lengthy customer support conversations quickly inflate your monthly communication costs.",
+        "impact": "Operating costs spiraling out of control"
+      },
+      {
+        "title": "Random Logouts & Blank Catalog Orders",
+        "desc": "Unstable sessions drop during flash sales, and customer WhatsApp cart orders show up as empty, unreadable bubbles.",
+        "impact": "Order backlogs and angry customer reviews"
+      }
+    ]
+  },
+  "epiphany": {
+    "eyebrow": "● PEACE OF MIND & JOY WITH WAPROMO",
+    "heading": "Orderly Workspace, Peaceful Team, Nonstop 24/7 Revenue Flow",
+    "subheading": "Experience the joy of an automated business without team drama and without suffocating per-message bills.",
+    "items": [
+      {
+        "title": "Realtime Atomic Chat Locking",
+        "desc": "The moment Rep Sarah opens a chat, other reps see an instant red lock with her name. 5 to 20 reps work together in total harmony.",
+        "benefit": "Smooth collaboration & fair commissions"
+      },
+      {
+        "title": "Friendly AI Assistant Standby 24/7",
+        "desc": "At midnight while you and your staff sleep peacefully, your smart AI assistant warmly welcomes shoppers, confirms catalog items, and locks sales.",
+        "benefit": "Revenue keeps flowing while you sleep"
+      },
+      {
+        "title": "Send Unlimited Chats for $0 Extra",
+        "desc": "Free from per-message bubble fees. Send warm welcomes, unpaid cart reminders, and promotional updates with predictable flat pricing.",
+        "benefit": "Save thousands of dollars every year"
+      },
+      {
+        "title": "Ultra-Lightweight on Any Device",
+        "desc": "Runs smoothly on low-end Android smartphones and desktop laptops. Zero heavy downloads, zero battery drain, instant readiness.",
+        "benefit": "10-second QR setup without paperwork"
+      }
+    ]
+  },
+  "savings": {
+    "eyebrow": "● REAL COST SAVINGS SIMULATION",
+    "heading": "Compare the Money You Save Every Single Month",
+    "subheading": "A smart investment that immediately restores healthy cash flow to your business.",
+    "traditionalCost": "$350 - $600 / mo",
+    "traditionalTag": "LEGACY BSP PLATFORMS (METERED FEES)",
+    "traditionalLabel": "Official BSP Platform (Per-User Seat Fees + Per-Message Meta Tariffs)",
+    "wapromoCost": "$19 / mo",
+    "wapromoTag": "WAPROMO PRO (FLAT & 96% SAVINGS)",
+    "wapromoLabel": "WAPromo Pro Plan (Flat Unlimited Chats + 10 Reps + 24/7 AI)",
+    "differenceText": "Save $330+ every single month (Over 90% Savings)",
+    "note": "Reinvest your savings directly into marketing ads or team bonuses!"
+  },
+  "pillarsTeaser": {
+    "eyebrow": "● EXPLORE DEEPER",
+    "heading": "Everything You Need to Power Your WhatsApp Sales Engine",
+    "subheading": "Explore our full feature suite, transparent pricing, or practical step-by-step guides.",
+    "items": [
+      {
+        "title": "Full Features & Capabilities",
+        "desc": "Discover how Multi-Rep locking, 24/7 AI Assistants, and anti-ban throttling transform your daily operations.",
+        "action": "Explore Features",
+        "href": "/fitur"
+      },
+      {
+        "title": "Pricing Plans & Guarantee",
+        "desc": "Pick the tier tailored for your team scale. No hidden fees, no per-message gouging, and a 100% satisfaction guarantee.",
+        "action": "View Pricing",
+        "href": "/harga"
+      },
+      {
+        "title": "Help Center & Guides",
+        "desc": "Get started in 10 seconds with QR pairing guides, team onboarding walkthroughs, and marketing best practices.",
+        "action": "Open Help Center",
+        "href": "/bantuan"
+      }
+    ]
+  },
+  "featuresPage": {
+    "metaTitle": "Full Features: WhatsApp Multi-Rep & Humanoid AI | WAPromo",
+    "metaDescription": "Unleash conflict-free Multi-Rep WhatsApp inboxes, 24/7 AI conversational sales, zero-storage media streaming, and safe delivery algorithms.",
+    "badge": "WAPROMO CORE FEATURES",
+    "titleLine1": "Every WhatsApp Sales Weapon,",
+    "titleLine2": "Organized in One Fast Workspace",
+    "lead": "Engineered specifically to solve the chaotic operational headaches of online stores, restaurants, skincare brands, clinics, and service businesses worldwide.",
+    "ctaPrimary": "Start Free Trial",
+    "ctaSecondary": "View Pricing Tiers",
+    "pillars": [
+      {
+        "tag": "CONFLICT-FREE MULTI-REP",
+        "title": "Share 1 WhatsApp Number Across 5 to 20 Agents With Zero Collision",
+        "desc": "Instant atomic locking the moment a rep opens a conversation. Other reps see a clear red lock and the assigned agent's name.",
+        "bulletPoints": [
+          "Realtime lock prevents double replies and customer confusion",
+          "Commissions logged accurately per agent with clear audit trails",
+          "Typing indicators visible across all agent screens instantly",
+          "Owners monitor response SLAs and performance metrics live"
+        ]
+      },
+      {
+        "tag": "HUMANOID 24/7 AI SALES ASSISTANT",
+        "title": "Automatically Close Midnight Inquiries With Natural Human Warmth",
+        "desc": "Far beyond simple keyword bots. Your AI assistant understands your catalog, answers shipping questions, and secures customer orders 24 hours a day.",
+        "bulletPoints": [
+          "Sub-second response speed under 1,000ms",
+          "Overflow Mode: Automatically assists when human reps are busy",
+          "Handoff Summary Card: Reps take over without asking customers to repeat",
+          "Zero hallucinations: answers strictly from your verified catalog"
+        ]
+      },
+      {
+        "tag": "ZERO-STORAGE MEDIA STREAMING",
+        "title": "Open Thousands of Payment Proofs Without Clogging Phone Storage",
+        "desc": "No more worrying about storage quotas or expensive cloud disks. All payment screenshots, catalog photos, and voice notes stream seamlessly.",
+        "bulletPoints": [
+          "100% crisp payment receipt screenshots rendered on the fly",
+          "Crystal-clear voice note (VN) playback without lag",
+          "Unlimited media bandwidth without kilobyte caps",
+          "App stays ultra-lightweight and battery-efficient"
+        ]
+      },
+      {
+        "tag": "SAFE DELIVERY ENGINE",
+        "title": "Send Broadcasts & Follow-Ups Without Burning Your Business Number",
+        "desc": "Smart rate-limiting with human-like jitter delays, dynamic text variations, and structured warm-up schedules.",
+        "bulletPoints": [
+          "Random 8-15 second jitter delays mimicking human typing rhythms",
+          "Automated message spintax variations prevent fingerprinting",
+          "Gentle follow-up sequences for abandoned carts and pending transfers",
+          "One-tap opt-out safeguards your business phone reputation"
+        ]
+      },
+      {
+        "tag": "NATIVE CATALOG CART ORDERS",
+        "title": "Customer WhatsApp Cart Orders Decoded Into Instant Invoices",
+        "desc": "No more blank unreadable bubbles when buyers send orders from your WhatsApp Business catalog.",
+        "bulletPoints": [
+          "Item names, sizes, quantities, and totals formatted cleanly",
+          "1-click button creates customer payment summaries instantly",
+          "Automatically prioritizes high-intent buyers in the queue",
+          "Eliminates slow manual data entry for reps"
+        ]
+      },
+      {
+        "tag": "MODERN ULTRA-FAST PWA",
+        "title": "Runs Fluidly on Budget Android Phones and Desktop Browsers",
+        "desc": "Install directly onto rep home screens without downloading bulky 80 MB packages from app stores.",
+        "bulletPoints": [
+          "Instant access via Chrome on Android and Safari on iOS",
+          "Zero external font downloads for instantaneous LCP loading",
+          "Comfortable full-screen mobile touch navigation",
+          "Automatic state synchronization across flaky network connections"
+        ]
+      }
+    ],
+    "ctaHeading": "Ready to Streamline Your WhatsApp Operations Today?",
+    "ctaSubheading": "Join hundreds of fast-growing businesses that eliminated rep collisions and skyrocketing software bills.",
+    "ctaButton": "Try It Free"
+  },
+  "pricingPage": {
+    "metaTitle": "WAPromo Pricing | Transparent Flat Plans Without Per-Message Fees",
+    "metaDescription": "Flat monthly and annual plans with 2 months free. Designed for 5 to 20 agents with zero per-message fees and no lock-in contracts.",
+    "badge": "INVESTMENT PLANS",
+    "titleLine1": "Transparent Flat Pricing,",
+    "titleLine2": "Zero Per-Message Fees Forever",
+    "lead": "Pick the tier built for your team scale. Enjoy the freedom to chat with thousands of customers without anxiety over bill shock.",
+    "monthlyToggle": "Monthly",
+    "annualToggle": "Annual",
+    "annualBadge": "2 MONTHS FREE",
+    "comparisonHeading": "Real Comparison: WAPromo vs Conventional Providers",
+    "comparisonSubheading": "See how WAPromo safeguards your cash flow and accelerates your customer support.",
+    "comparisonRows": [
+      {
+        "feature": "Cost Per Message Bubble",
+        "wapromo": "$0 (Flat Unlimited Chatting)",
+        "others": "$0.04 - $0.08 / bubble (High ongoing variable cost)"
+      },
+      {
+        "feature": "Agent Seat Capacity",
+        "wapromo": "Up to 20 Reps on 1 Number",
+        "others": "$25 - $50 per agent per month"
+      },
+      {
+        "feature": "24/7 AI Sales Assistant",
+        "wapromo": "Included (Warm & Contextual)",
+        "others": "Separate add-on bot fees ($100+/mo)"
+      },
+      {
+        "feature": "Onboarding Requirements",
+        "wapromo": "10-Sec QR Scan (Zero Paperwork)",
+        "others": "Mandatory business registration & Meta review"
+      },
+      {
+        "feature": "Payment Methods",
+        "wapromo": "Cards, Bank Transfers, Local Wallets",
+        "others": "Credit Card USD only"
+      },
+      {
+        "feature": "Conflict-Free Chat Locking",
+        "wapromo": "Realtime Atomic Lock Built-In",
+        "others": "Frequent collisions across multi-device"
+      },
+      {
+        "feature": "WhatsApp Catalog Cart Orders",
+        "wapromo": "Decoded Cleanly With Auto-Totals",
+        "others": "Often displays as blank 'unknown' bubble"
+      },
+      {
+        "feature": "Commitment & Contracts",
+        "wapromo": "Cancel Anytime With 1 Click",
+        "others": "Rigid annual contracts upfront"
+      }
+    ],
+    "guaranteeHeading": "100% Peace of Mind Guarantee",
+    "guaranteeDesc": "We stand behind our speed and reliability. Test without credit cards, and upgrade, downgrade, or cancel anytime without penalties.",
+    "ctaHeading": "Start Saving Hundreds of Dollars Starting Today",
+    "ctaSubheading": "Link your store number now and watch your team respond 3x faster with total peace of mind.",
+    "ctaButton": "Start Your Trial Now"
+  },
+  "helpPage": {
+    "metaTitle": "Help Center & Quick Guides | WAPromo",
+    "metaDescription": "Step-by-step guides on connecting WhatsApp via QR code, inviting support agents, anti-ban best practices, and FAQs.",
+    "badge": "HELP CENTER & GUIDES",
+    "titleLine1": "We Are Here to Support Your Store,",
+    "titleLine2": "Every Step to Success",
+    "lead": "Find practical walkthroughs, quick fixes for common questions, and proven strategies to sell more on WhatsApp.",
+    "quickStartHeading": "3 Steps to Launch in Under 1 Minute",
+    "quickStartSubheading": "Effortless setup without installing heavy apps or filling out corporate paperwork.",
+    "quickStartSteps": [
+      {
+        "step": "01",
+        "title": "Scan Store WhatsApp QR Code",
+        "desc": "Open the WAPromo dashboard on laptop or phone, open WhatsApp on your phone, and scan the QR code. Your session syncs securely."
+      },
+      {
+        "step": "02",
+        "title": "Invite Support Team Reps",
+        "desc": "Send invitations to rep email addresses. They log into their individual dashboards immediately without re-scanning the QR code."
+      },
+      {
+        "step": "03",
+        "title": "Enable AI Assistant & Begin Selling",
+        "desc": "Customize your store welcome greeting and let your smart AI assistant answer inquiries while your team rests."
+      }
+    ],
+    "categories": [
+      {
+        "title": "Connecting WhatsApp & Sessions",
+        "items": [
+          {
+            "question": "Do I need corporate documents or business registration to connect?",
+            "answer": "Not at all! WAPromo connects just as simply as WhatsApp Web. Just scan the QR code with your phone camera in 10 seconds, and your inbox is ready with zero paperwork."
+          },
+          {
+            "question": "Does my store phone need to remain turned on and connected?",
+            "answer": "Yes, to keep the WhatsApp session active, ensure your primary store phone stays powered and connected to the internet, just like using standard WhatsApp Web."
+          },
+          {
+            "question": "How long does QR code pairing take?",
+            "answer": "Only 5 to 10 seconds. Once scanned, your chats and customer threads instantly synchronize to your multi-agent dashboard."
+          }
+        ]
+      },
+      {
+        "title": "Team Management & Collision Prevention",
+        "items": [
+          {
+            "question": "How does WAPromo stop two reps from replying to the same customer?",
+            "answer": "WAPromo utilizes atomic realtime locking. The moment Rep Sarah clicks a conversation, it locks on all other reps' screens with a red badge 'Handled by Sarah', and their reply buttons are disabled."
+          },
+          {
+            "question": "Do my reps need to know the store WhatsApp password or device PIN?",
+            "answer": "No. Reps log into their own personal accounts. They never access your physical phone, keeping your contacts and master account secure in your hands."
+          },
+          {
+            "question": "Can I prevent reps from exporting customer contact lists?",
+            "answer": "Yes! WAPromo includes granular role-based permissions. Owners can enable automatic phone number masking, disable contact export buttons, and restrict broadcast permissions."
+          }
+        ]
+      },
+      {
+        "title": "AI Assistant & 24/7 Service",
+        "items": [
+          {
+            "question": "Can the AI assistant hallucinate prices or make false promises?",
+            "answer": "No. WAPromo's assistant is strictly constrained to your verified catalog and knowledge base. If an inquiry falls outside your data, it courteously hands off to your human team."
+          },
+          {
+            "question": "When does the AI respond automatically?",
+            "answer": "You have complete control: Always Active Mode, After-Hours Mode (e.g. 9 PM - 8 AM), or Overflow Mode (AI only answers if customers wait longer than 45 seconds during peak traffic)."
+          }
+        ]
+      },
+      {
+        "title": "Security & Safe Delivery Best Practices",
+        "items": [
+          {
+            "question": "Is my phone number safe from WhatsApp spam bans?",
+            "answer": "Very safe when communicating with inbound leads and past customers. WAPromo features human delay simulation (random 8-15 second jitter) and spintax text variation to keep your number healthy."
+          },
+          {
+            "question": "What is the recommended warm-up schedule for new numbers?",
+            "answer": "During the first week, handle inbound chats naturally and limit outbound promotions to 20-50 messages per day. Increase volume gradually each week to establish strong sender trust."
+          }
+        ]
+      }
+    ],
+    "contactHeading": "Need Direct Assistance From Our Team?",
+    "contactDesc": "WAPromo support engineers are on standby to assist with onboarding and technical questions.",
+    "contactButton": "Chat With WhatsApp Support"
+  },
+  "blogPage": {
+    "metaTitle": "Blog & WhatsApp Business Insights | WAPromo",
+    "metaDescription": "Practical guides on WhatsApp sales strategies, organizing multi-rep support teams, and maximizing conversions.",
+    "badge": "BUSINESS INSIGHTS & GUIDES",
+    "titleLine1": "Actionable WhatsApp Sales Strategies,",
+    "titleLine2": "Proven in Real-World Commerce",
+    "lead": "Discover practical tactics, case studies, and field-tested advice to help your support team close more deals every single day.",
+    "featuredBadge": "FEATURED ARTICLE",
+    "readMore": "Read Full Story",
+    "backToBlog": "Back to Blog",
+    "articles": [
+      {
+        "slug": "cara-mengatur-10-cs-whatsapp-tanpa-tabrakan",
+        "tag": "Team Management",
+        "readTime": "4 min read",
+        "title": "The Blueprint to Managing 10 Support Reps on 1 Number Without Collisions",
+        "excerpt": "Learn how atomic chat locking protects team commissions and delights customers with seamless response times.",
+        "date": "Oct 20, 2026"
+      },
+      {
+        "slug": "trik-closing-chat-jam-12-malam-asisten-ai",
+        "tag": "AI Automation",
+        "readTime": "5 min read",
+        "title": "How Fashion Stores Close Midnight Orders Using 24/7 AI Assistants",
+        "excerpt": "A real case study on how an apparel brand boosted sales 35% by keeping conversational AI on duty while reps sleep.",
+        "date": "Oct 18, 2026"
+      },
+      {
+        "slug": "panduan-whatsapp-marketing-anti-banned",
+        "tag": "Account Safety",
+        "readTime": "6 min read",
+        "title": "The Complete WhatsApp Marketing Safety Guide: Avoid Spam Bans",
+        "excerpt": "Understand dynamic jitter rate-limiting, spintax message variations, and warm-up schedules for business numbers.",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "slug": "hemat-5-juta-sebulan-tanpa-biaya-per-pesan",
+        "tag": "Cost Optimization",
+        "readTime": "4 min read",
+        "title": "Financial Breakdown: How Online Brands Save $400/Mo Without Per-Message Fees",
+        "excerpt": "A side-by-side financial comparison between per-message BSP billing vs WAPromo's flat monthly model.",
+        "date": "Oct 12, 2026"
+      }
+    ]
+  },
+  "ebookPage": {
+    "metaTitle": "Free WhatsApp Automation Playbook | WAPromo",
+    "metaDescription": "Download the free WhatsApp Automation Playbook and CS SOP guide to skyrocket your online store sales.",
+    "badge": "FREE E-BOOK & PLAYBOOK",
+    "titleLine1": "Download the Secret Playbook,",
+    "titleLine2": "WhatsApp Automation for E-Commerce"
+,
+    "lead": "A comprehensive step-by-step masterclass on building an automated WhatsApp sales machine that closes orders 24/7.",
+    "bookTitle": "The WhatsApp Automation Playbook for Growing Brands",
+    "bookSubtitle": "A Practical Guide to Managing 10 Reps, Closing Deals 24/7, & Saving Thousands in Software Fees",
+    "bookDesc": "Written from direct case studies of over 50 thriving online merchants. This playbook reveals insider tactics never shared in generic marketing courses.",
+    "chaptersHeading": "What You Will Master in This Playbook:",
+    "chapters": [
+      "Chapter 1: The WhatsApp Sales Bottleneck & Why 90% of Stores Leak Revenue in Chat",
+      "Chapter 2: Structuring 1 Number for 10-20 Reps Without Collision or Commission Disputes",
+      "Chapter 3: Training Humanoid AI Assistants to Converse Naturally With Customers",
+      "Chapter 4: Safe Broadcast Delivery Without Triggering Meta Spam Filters",
+      "Chapter 5: The 3-Minute Closing SOP Every WhatsApp Support Agent Needs",
+      "Chapter 6: High-Converting Follow-Up Scripts for Unpaid Orders and Abandoned Carts"
+    ],
+    "downloadButton": "Download Free E-Book (PDF)",
+    "downloadNote": "✓ Instant PDF download · No fees · 100% Free",
+    "highlights": [
+      "68 Pages of Real-World Case Studies",
+      "Ready-to-Use Copywriting Chat Scripts",
+      "CS KPI Evaluation Scorecard",
+      "Tailored for Retail, F&B, Skincare, & Services"
+    ]
+  },
+  "registerOwnerPage": {
+    "metaTitle": "Register as Owner",
+    "metaDescription": "Create a WAPromo owner account to manage your business, WhatsApp, and customer support team.",
+    "badge": "OWNER ACCOUNT",
+    "heading": "Get started as an owner",
+    "subheading": "Create an owner account to manage your business, WhatsApp, and customer support team.",
+    "googleSignUp": "Sign up with Google",
+    "orDivider": "OR",
+    "ownerNameLabel": "Full Name",
+    "ownerNamePlaceholder": "Alex Johnson",
+    "businessNameLabel": "Business Name",
+    "businessNamePlaceholder": "Store or Company Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "name@example.com",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Password",
+    "phoneLabel": "WhatsApp number",
+    "phonePlaceholder": "Phone number",
+    "countrySearchPlaceholder": "Search country or code (+1)...",
+    "countryEmptyText": "No country found",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Repeat password",
+    "demoOwnerName": "Alex Johnson",
+    "demoBusinessName": "Kopi Senja",
+    "demoEmail": "alex@kopisenja.example",
+    "demoPhone": "2025550147",
+    "demoPassword": "WapromoDemo2026!",
+    "passwordMismatch": "Your passwords do not match.",
+    "submitLabel": "Register & open demo dashboard",
+    "prototypeNote": "Sample data is kept only for this browser session. Registration is not connected to a backend."
+  },
+  "dashboardPage": {
+    "metaTitle": "Inbox & Operations",
+    "demoBadge": "DEMO WORKSPACE",
+    "workspace": "Workspace",
+    "sidebar": {
+      "campaign": "Campaign",
+      "teamInbox": "Team Inbox",
+      "contacts": "Contacts",
+      "promoAI": "Astra",
+      "automation": "Automation",
+      "commerce": "Commerce",
+      "ads": "Ads",
+      "analytics": "Analytics",
+      "channels": "Channel",
+      "watiAI": "Promo AI",
+      "connectors": "Connectors",
+      "developers": "Developers",
+      "settings": "Settings",
+      "users": "Users",
+      "accountDetails": "Account details",
+      "academy": "Wati Academy",
+      "collapse": "Collapse",
+      "expand": "Expand menu",
+      "collapseInbox": "Collapse inbox navigation",
+      "expandInbox": "Expand inbox navigation",
+      "channelChildren": ["WhatsApp", "Instagram"],
+      "watiAIChildren": ["AI Copilot", "AI rules"],
+      "connectorChildren": ["API", "Webhooks"]
+    },
+    "welcome": "Welcome,",
+    "welcomeBody": "Keep an eye on customer conversations and team activity in one place.",
+    "searchPlaceholder": "Search conversations...",
+    "scheduleDemo": "Schedule a demo",
+    "navOverview": "Overview",
+    "navInbox": "Inbox",
+    "navContacts": "Contacts",
+    "navCampaigns": "Campaigns",
+    "navTeam": "Team",
+    "navSettings": "Settings",
+    "systemOnline": "System online",
+    "connectedLabel": "WhatsApp connected",
+    "connectedNumber": "+1 202-555-0184",
+    "newConversation": "New conversation",
+    "logout": "Back to registration",
+    "metrics": ["Open conversations", "Waiting for reply", "Resolved today", "Average response"],
+    "inboxTitle": "Team inbox",
+    "inboxDescription": "Recent conversations from your customers",
+    "viewAll": "View all",
+    "conversationCountLabel": "Chats",
+    "activeConversationsLabel": "Active chats",
+    "inboxFolders": [
+      { "id": "all", "label": "All conversations" },
+      { "id": "active", "label": "Active chats" },
+      { "id": "assigned", "label": "Assigned to me" },
+      { "id": "unassigned", "label": "Unassigned" },
+      { "id": "pending", "label": "Awaiting reply" },
+      { "id": "mentions", "label": "Mentions" }
+    ],
+    "channelsLabel": "CHANNELS",
+    "allChannels": "All channels",
+    "channelFilters": [
+      { "id": "whatsapp", "label": "WhatsApp" },
+      { "id": "instagram", "label": "Instagram" },
+      { "id": "messenger", "label": "Messenger" },
+      { "id": "whatsapp-calls", "label": "WhatsApp calls" },
+      { "id": "webchat", "label": "Webchat" }
+    ],
+    "filterAll": "All",
+    "filterOpen": "Open",
+    "filterUnread": "Unread",
+    "filterPending": "Pending",
+    "availableLabel": "Available",
+    "threadStatusline": "Operator handover summary is disabled",
+    "activateFeature": "Enable feature",
+    "sharedNumberNotice": "You are currently using a shared number",
+    "sharedNumberDescription": "Connect your channel to unlock more features, branding, and a better experience.",
+    "connectChannel": "Connect channel",
+    "threadTabs": [
+      { "id": "messages", "label": "Messages" },
+      { "id": "summary", "label": "Conversation summary" },
+      { "id": "automation", "label": "Inbox automation" },
+      { "id": "calls", "label": "Call notes" }
+    ],
+    "contactFieldLabels": { "name": "Name", "phone": "Phone number", "source": "Source" },
+    "privacyNotice": "Hide number for security",
+    "privacyAction": "Enable now",
+    "cxScoreLabel": "CX score",
+    "cxScoreStatus": "New",
+    "unavailableLabel": "Not available",
+    "salesAttributesLabel": "Sales attributes",
+    "contactAttributesLabel": "Contact attributes",
+    "emptyConversations": "No matching conversations.",
+    "conversations": [
+      { "name": "Nadia Putri", "preview": "Hi, is the sage color still in stock?", "time": "2 min", "category": "Product", "initials": "NP", "unread": 2, "channel": "whatsapp" },
+      { "name": "Raka Pratama", "preview": "Thanks, my order has arrived.", "time": "11 min", "category": "Order", "initials": "RP", "unread": 0, "channel": "whatsapp" },
+      { "name": "Maya Lestari", "preview": "Could you share shipping details for Bandung?", "time": "24 min", "category": "Shipping", "initials": "ML", "unread": 1, "channel": "instagram" },
+      { "name": "Dimas Saputra", "preview": "I would like to know this week's offers.", "time": "38 min", "category": "Promotion", "initials": "DS", "unread": 0, "channel": "messenger" }
+    ],
+    "setupTitle": "Set up your workspace",
+    "setupDescription": "Complete these first steps to get your operations running.",
+    "setupProgress": "1 of 3 complete",
+    "setupSteps": ["Connect a WhatsApp number", "Invite your team", "Set up quick replies"],
+    "campaignTitle": "Active campaign",
+    "campaignDescription": "Weekend promotion",
+    "campaignSentLabel": "Messages sent",
+    "campaignReplyLabel": "Replies received",
+    "teamTitle": "On duty",
+    "teamOnlineLabel": "team members active",
+    "teamMembers": [
+      { "name": "Alya Rahma", "role": "Admin", "status": "Available", "initials": "AR" },
+      { "name": "Fajar Akbar", "role": "Customer support", "status": "Handling chats", "initials": "FA" },
+      { "name": "Nisa Amalia", "role": "Customer support", "status": "Available", "initials": "NA" }
+    ],
+    "profileLabel": "Workspace owner",
+    "demoNotice": "Sample data • not connected to a backend",
+    "thread": {
+      "lockNotice": "Locked by you. Your team can still view this conversation.",
+      "releaseLock": "Release lock",
+      "resolveLabel": "Resolve",
+      "resolvedLabel": "Resolved",
+      "todayLabel": "TODAY, OCT 21, 2026",
+      "assignedNotice": "Conversation assigned to you by PromoAI · 12:38",
+      "replyLabel": "Reply",
+      "noteLabel": "Internal note",
+      "composerPlaceholder": "Write a reply to Nadia...",
+      "sendLabel": "Send",
+      "customerDetails": "Customer details",
+      "customerSince": "Customer since Aug 2026",
+      "totalOrders": "Total orders",
+      "lifetimeValue": "Lifetime value",
+      "customerOrderValue": "04",
+      "customerLifetimeValue": "$800",
+      "overviewTab": "Overview",
+      "ordersTab": "Orders 4",
+      "activityTab": "Activity",
+      "contactInfo": "Contact information",
+      "customerPhone": "+1 202-555-0137",
+      "customerEmail": "nadia.pratama@example.com",
+      "customerLocation": "South Jakarta, Indonesia",
+      "tagsLabel": "TAGS",
+      "tags": ["VIP", "Returning customer", "Coffee lover"],
+      "assignedTo": "ASSIGNED TO",
+      "agentName": "Alex Putra (you)",
+      "agentRole": "Sales team",
+      "assistantTitle": "PromoAI",
+      "agentMaximizeLabel": "Maximize panel",
+      "agentRestoreLabel": "Restore panel size",
+      "agentCollapseHistory": "Collapse history",
+      "agentExpandHistory": "Expand history",
+      "assistantStatus": "Copilot on",
+      "assistantDescription": "Auto-replies are paused. AI is ready to help draft replies and summarize conversations.",
+      "assistantAction": "View AI summary",
+      "agentGreeting": "How can I help you?",
+      "agentRecentPrompt": "List my most recent conversations",
+      "agentLastChatsPrompt": "Who has been active in the last 7 days?",
+      "agentSuggestionsPrompt": "Suggest agents from recent chats",
+      "agentPrivateChat": "Private chat",
+      "agentAskPlaceholder": "Ask about Team Inbox...",
+      "agentAskLabel": "Ask",
+      "agentAgentsLabel": "Agents",
+      "agentNewChat": "New Chat",
+      "agentRecentLabel": "RECENT",
+      "agentEmptyHistory": "No chats yet — ask something to start one.",
+      "agentPrivateDescription": "Only you can see this chat",
+      "agentNewAgent": "New Agent",
+      "agentSuggestedTitle": "Suggested Agents",
+      "agentSuggestedBadge": "Based on {count} active chats",
+      "agentListTitle": "Agents you use",
+      "agentListDescription": "Recently used agents appear here.",
+      "agentShowMore": "Show 6 more agents",
+      "agentShowLess": "Show less",
+      "notesTitle": "INTERNAL NOTES",
+      "noteText": "Prefers sage ceramics. Save home address for future orders.",
+      "latestActivity": "LATEST ACTIVITY",
+      "activityText": "Order #SS-1028 created today · 12:41 by Alex",
+      "orderTitle": "Your order from Studio Supply",
+      "orderName": "Everyday Espresso Set",
+      "orderSubtitle": "Sage · 2 cups + 2 saucers",
+      "orderPrice": "$24.00",
+      "orderStatus": "Awaiting payment",
+      "orderNumber": "ORDER #SS-1028",
+      "orderSubtotal": "$27.00 incl. shipping",
+      "quantityLabel": "Qty 1",
+      "outgoingTime": "12:40",
+      "followupTime": "12:42",
+      "incomingMessage": "Perfect! Can you send the payment link? Use the same address as my last order. 😊",
+      "outgoingMessage": "Hi Nadia! It's in stock. Delivery is $3.00 and takes 1–2 working days. I'll prepare your order.",
+      "followupMessage": "Could you send me the payment link?",
+      "backToInbox": "Back to inbox"
+    }
+  },
+  "pwa": {
+    "installButton": "Install App",
+    "installingButton": "Installing WAPromo...",
+    "installTitle": "Install WAPromo",
+    "installDescription": "Install this app on your device for quick access.",
+    "installIOSDescription": "Add this app to your home screen for the best experience.",
+    "installIOSShareTitle": "1. Open Share Menu",
+    "installIOSShareDescription": "Tap the square icon with an upward arrow at the bottom of your Safari screen.",
+    "installIOSAddTitle": "2. Add to Home Screen",
+    "installIOSAddDescription": "Scroll down and select \"Add to Home Screen\".",
+    "installIOSConfirmTitle": "3. Confirm Add",
+    "installIOSConfirmDescription": "Tap \"Add\" in the top right corner to complete.",
+    "installIOSBrowserTip": "Tip: On iPhone/iPad, PWA installation is natively supported in Safari.",
+    "installAndroidDescription": "Install WAPromo on your Android device for instant access and full-screen experience.",
+    "installAndroidMenuTitle": "1. Open Browser Menu",
+    "installAndroidMenuDescription": "Tap the three dots (⋮) in the top-right corner of Chrome, or look for the install/arrow icon in the top bar.",
+    "installAndroidAddTitle": "2. Select Install App",
+    "installAndroidAddDescription": "Tap \"Add to Home screen\" or \"Install app\".",
+    "installAndroidConfirmTitle": "3. Confirm Install",
+    "installAndroidConfirmDescription": "Tap \"Install\" on the confirmation prompt. WAPromo will appear on your home screen.",
+    "installInAppWarningTitle": "In-App Browser Detected",
+    "installInAppWarningDescription": "In-app browsers (Instagram, TikTok, WhatsApp, etc.) restrict PWA installation. Please tap menu (⋮) or Share and select \"Open in Browser (Chrome/Safari)\".",
+    "installDetectedBadge": "Detected",
+    "installTabIOS": "iPhone (iOS)",
+    "installTabAndroid": "Android",
+    "installTabDesktop": "Desktop / PC",
+    "installBrowserTitle": "1. Address Bar Install Icon",
+    "installBrowserDescription": "Click the install icon on the right side of your browser's address bar.",
+    "installBrowserClickTitle": "2. Or Browser Menu",
+    "installBrowserClickDescription": "Click the three dots (⋮) in the top right > select \"Install WAPromo\" (or Save & Share).",
+    "installDone": "Got it, thanks!",
+    "installingTitle": "Installing WAPromo...",
+    "installingStep0": "Preparing and downloading application files...",
+    "installingStep1": "Registering WAPromo to your Android home screen...",
+    "installingStep2": "Verifying installation package with Android system...",
+    "installingStep3": "Almost done, placing app icon on your device...",
+    "installingBadge": "Android Installation Process",
+    "installingDesktopBadge": "App Installation Process",
+    "installedTitle": "WAPromo installed successfully!",
+    "installedMessage": "You can now launch the app from your home screen.",
+    "installedBadge": "Installation Complete",
+    "closeLabel": "Close"
+  },
+  "footer": {
+    "tagline": "Manage conversations, maintain consistency."
+  }
+}

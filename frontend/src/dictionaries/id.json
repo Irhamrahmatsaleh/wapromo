@@ -1,0 +1,984 @@
+{
+  "lang": "id",
+  "dir": "ltr",
+  "localeName": "Bahasa Indonesia",
+  "flag": "🇮🇩",
+  "meta": {
+    "title": "Platform WhatsApp Blast & Broadcast Bisnis | WAPromo",
+    "description": "Aplikasi WhatsApp blast, broadcast pesan promo massal, dan inbox tim praktis. Ringan, cepat, dan ramah koneksi lambat untuk bisnis.",
+    "keywords": [
+      "whatsapp blast",
+      "wa blast",
+      "broadcast whatsapp",
+      "kirim pesan massal wa",
+      "whatsapp promo",
+      "inbox whatsapp tim",
+      "aplikasi wa blast",
+      "wapromo"
+    ],
+    "ogTitle": "Platform WhatsApp Blast & Broadcast Bisnis | WAPromo",
+    "ogDescription": "Aplikasi WhatsApp blast, broadcast pesan promo massal, dan inbox tim praktis. Ringan, cepat, dan ramah koneksi lambat."
+  },
+  "nav": {
+    "home": "Beranda",
+    "features": "Fitur",
+    "howItWorks": "Cara kerja",
+    "pricing": "Harga",
+    "api": "API",
+    "resource": "Resource",
+    "help": "Bantuan",
+    "blog": "Blog",
+    "ebook": "E-Book",
+    "login": "Masuk",
+    "signup": "Daftar",
+    "language": "Pilih Bahasa",
+    "menu": "Buka menu navigasi",
+    "closeMenu": "Tutup menu navigasi"
+  },
+  "auth": {
+    "loginTitle": "Masuk sebagai",
+    "signupTitle": "Daftar sebagai",
+    "description": "Pilih peran yang sesuai dengan akun Anda.",
+    "owner": "Pemilik bisnis",
+    "ownerDescription": "Kelola bisnis, nomor WhatsApp, dan tim Anda.",
+    "customerService": "Tim customer service (CS)",
+    "customerServiceDescription": "Tangani percakapan pelanggan sebagai bagian dari tim.",
+    "close": "Tutup",
+    "next": "Lanjut"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistem",
+    "light": "Terang",
+    "dark": "Gelap"
+  },
+  "hero": {
+    "eyebrow": "● WHATSAPP BLAST & INBOX TIM",
+    "titleLine1": "Platform WhatsApp Blast &",
+    "titleLine2": "Broadcast Pesan Bisnis",
+    "lead": "Kirim broadcast pesan promo ke ribuan pelanggan, kelola percakapan WhatsApp bersama tim CS, dan tingkatkan penjualan lebih rapi.",
+    "ctaPrimary": "Coba Gratis",
+    "ctaSecondary": "Lihat Cara Kerja",
+    "note": "✓ Setup toko bertahap, mulai dari Owner"
+  },
+  "metrics": [
+    {
+      "value": "98%",
+      "label": "Tingkat Buka Pesan (Open Rate)"
+    },
+    {
+      "value": "10 Juta+",
+      "label": "Pesan Broadcast Terkirim Setiap Bulan"
+    },
+    {
+      "value": "3.500+",
+      "label": "Bisnis & UMKM Aktif Memakai WAPromo"
+    },
+    {
+      "value": "< 1 Menit",
+      "label": "Rata-rata Waktu Respon Tim CS"
+    }
+  ],
+  "preview": {
+    "title": "WAPromo · Inbox Tim",
+    "workspace": "WORKSPACE",
+    "sideActive": "● Team inbox",
+    "contacts": "Kontak",
+    "broadcast": "Broadcast",
+    "personal": "Personal",
+    "teamMembers": "ANGGOTA TIM",
+    "unread": "3 belum dibaca",
+    "chatName": "Nadia Pratama",
+    "chatPreview": "Halo, apakah produk ini...",
+    "chatActive": "WhatsApp · Aktif",
+    "chatIncoming": "Halo, apakah promo diskon produk ini masih berlaku hari ini?",
+    "chatOutgoing": "Masih aktif, Kak! Bisa langsung diproses sekarang. Mau ambil varian yang mana?",
+    "replyPlaceholder": "Tulis balasan sebagai Tim...",
+    "sendButton": "Kirim",
+    "chat2Name": "Ricky Aditya",
+    "chat2Preview": "Apakah promo masih ada?",
+    "chat3Name": "Sarah Wijaya",
+    "chat3Preview": "Terima kasih banyak ya!",
+    "broadcastBadge": "Broadcast Selesai",
+    "broadcastStat": "1.450 / 1.450 Kontak (99.8%)",
+    "closingBadge": "Penjualan Berhasil",
+    "closingAmount": "Rp 350.000",
+    "leadTag": "Hot Lead 🔥",
+    "agentAssigned": "CS Sarah",
+    "quickReply": "Template Promo",
+    "closingStatus": "Lunas",
+    "liveBadge": "LIVE"
+  },
+  "comparison": {
+    "eyebrow": "KENAPA HARUS WAPROMO",
+    "heading": "Tinggalkan Cara Lama yang Membuat Nomor Diblokir dan Omset Hilang",
+    "subheading": "Bandingkan bagaimana WAPromo melindungi aset nomor bisnis Anda dan melipatgandakan kecepatan penjualan tim CS.",
+    "oldWayTitle": "Cara Manual Konvensional",
+    "oldWayBadge": "METODE LAMA & BERISIKO",
+    "oldWayItems": [
+      "Kirim Blast Manual: Sangat melelahkan dan nomor rawan diblokir WA",
+      "CS Saling Tabrakan: Berebut atau menjawab pesan pelanggan yang sama",
+      "Pesan Tenggelam: Prospek tidak terbalas saat di luar jam kerja",
+      "Tanpa Visibilitas: Owner tidak tahu kinerja dan kecepatan respon agen CS"
+    ],
+    "newWayTitle": "Dengan WAPromo",
+    "recommendedBadge": "PILIHAN BISNIS MODERN",
+    "newWayItems": [
+      "Smart Anti-Banned & Spintax: Kirim ribuan pesan otomatis dengan jeda alami dan aman",
+      "1 Nomor untuk Banyak CS: Sistem tiket dan auto-routing tanpa tabrakan",
+      "Otomasi & Broadcast 24/7: Jaga penjualan dan respon pelanggan tetap aktif nonstop",
+      "Laporan Analitik Lengkap: Pantau performa agen dan konversi omset secara real-time"
+    ]
+  },
+  "features": {
+    "heading": "Satu toko. Satu inbox bersama. Tanggung jawab tetap jelas.",
+    "subheading": "Mulai dengan Owner, verifikasi toko, lalu undang CS dengan aman.",
+    "items": [
+      {
+        "icon": "phone",
+        "title": "Satu nomor WhatsApp",
+        "text": "Hubungkan nomor toko, kelola pesan masuk dan riwayat percakapan dari satu tempat.",
+        "action": "Hubungkan sekarang"
+      },
+      {
+        "icon": "team",
+        "title": "Akun CS masing-masing",
+        "text": "Setiap tim punya akses sendiri. Tanggung jawab percakapan pelanggan tetap jelas.",
+        "action": "Atur tim kerja"
+      },
+      {
+        "icon": "sync",
+        "title": "Anti-tabrakan realtime",
+        "text": "Status dan pesan terbaru tersinkronkan agar semua tim selalu selaras.",
+        "action": "Lihat cara kerjanya"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "PILIHAN PAKET INVESTASI",
+    "heading": "Harga Transparan untuk Segala Skala Bisnis",
+    "subheading": "Semua paket sudah termasuk uji coba gratis 14 hari penuh. Batalkan kapan saja tanpa syarat kartu kredit.",
+    "period": "/bulan",
+    "popularBadge": "Paling Populer",
+    "plans": [
+      {
+        "name": "Starter",
+        "desc": "Cocok untuk UMKM dan toko online mandiri yang baru mulai broadcast promo.",
+        "price": "Rp 99.000",
+        "popular": false,
+        "cta": "Coba Gratis 14 Hari",
+        "features": [
+          "1 Nomor WhatsApp Resmi",
+          "Hingga 5 Akun CS",
+          "5.000 Kontak Pelanggan",
+          "Smart Anti-Banned Delay",
+          "Inbox Bersama Realtime",
+          "Dukungan WhatsApp Komunitas"
+        ]
+      },
+      {
+        "name": "Bisnis Pro",
+        "desc": "Paling diminati bisnis yang ingin mengotomasi penjualan dan membagi tim CS.",
+        "price": "Rp 199.000",
+        "popular": true,
+        "cta": "Mulai Uji Coba Gratis",
+        "features": [
+          "1 Nomor WhatsApp Resmi",
+          "Maksimal 10 Akun CS",
+          "Unlimited Kontak Pelanggan",
+          "Smart Delay + Spintax Acak Kata",
+          "Auto-Responder & Pesan Terjadwal",
+          "Laporan Analitik CS & Broadcast",
+          "Dukungan Prioritas 24/7"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "desc": "Solusi khusus untuk korporasi, multi-cabang, dan volume pesan skala besar.",
+        "price": "Rp 399.000",
+        "popular": false,
+        "cta": "Hubungi Tim Sales",
+        "features": [
+          "Multi-Nomor WhatsApp",
+          "Unlimited Akun CS & Cabang",
+          "Unlimited Broadcast Massal",
+          "Dedicated API & Webhook Akses",
+          "Integrasi Sistem Kasir / ERP",
+          "Dedicated Account Manager",
+          "SLA Server 99.9% Terjamin"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "PERTANYAAN UMUM",
+    "heading": "Jawaban untuk Keraguan Anda",
+    "subheading": "Semua yang perlu Anda ketahui sebelum melipatgandakan omset dengan WAPromo.",
+    "items": [
+      {
+        "question": "Apakah nomor WhatsApp saya aman dari pemblokiran (banned)?",
+        "answer": "Sangat aman. WAPromo dilengkapi teknologi Smart Delay (jeda dinamis antar-pesan) dan Spintax (variasi kata otomatis) yang menyimulasikan pola pengetikan manusia alami, sehingga terhindar dari deteksi spam WhatsApp."
+      },
+      {
+        "question": "Apakah saya memerlukan kartu kredit untuk mendaftar?",
+        "answer": "Tidak sama sekali. Anda bisa langsung mencoba semua fitur WAPromo secara gratis selama 14 hari tanpa perlu memasukkan kartu kredit atau komitmen biaya apa pun."
+      },
+      {
+        "question": "Bisakah saya menggunakan nomor WhatsApp lama yang sudah aktif?",
+        "answer": "Bisa. Anda cukup memindai (scan) kode QR dari aplikasi WhatsApp di HP Anda seperti menggunakan WhatsApp Web, dan nomor lama Anda langsung terhubung tanpa kehilangan riwayat chat."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk mulai menggunakannya?",
+        "answer": "Hanya butuh 2 menit! Buat akun, scan QR nomor WhatsApp toko Anda, undang CS, dan Anda siap langsung kirim pesan broadcast pertama Anda."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "heading": "Siap Lipatgandakan Penjualan WhatsApp Anda Hari Ini?",
+    "subheading": "Bergabunglah dengan 3.500+ pebisnis pintar yang mengelola jutaan chat pelanggan tanpa drama nomor terblokir.",
+    "button": "Coba Gratis Sekarang",
+    "note": "✓ Gratis 14 hari penuh · Tanpa kartu kredit · Setup 2 menit"
+  },
+  "apiPage": {
+    "metaTitle": "WhatsApp Business API & Webhooks Developer",
+    "metaDescription": "Dokumentasi REST API WhatsApp untuk developer. Kirim pesan OTP, notifikasi transaksi, dan webhook realtime dengan latensi rendah.",
+    "badge": "● DOKUMENTASI DEVELOPER & REST API",
+    "titleLine1": "Integrasikan WhatsApp API",
+    "titleLine2": "ke Aplikasi Anda dalam Hitungan Menit",
+    "lead": "REST API berkecepatan tinggi dengan latensi di bawah 150ms. Kirim OTP instan, notifikasi order, resi ekspedisi, dan sinkronkan webhook percakapan dua arah.",
+    "ctaPrimary": "Dapatkan API Key Gratis",
+    "ctaSecondary": "Lihat Contoh Kode",
+    "stats": {
+      "speed": "< 120ms",
+      "speedLabel": "Rata-rata Latensi Pengiriman API",
+      "uptime": "99.99%",
+      "uptimeLabel": "Jaminan Ketersediaan Server (SLA)",
+      "freeTier": "1.000 Pesan",
+      "freeTierLabel": "Kuota Uji Coba Gratis per Bulan"
+    },
+    "codeTitle": "Kirim Pesan Pertama Anda",
+    "codeSubtitle": "Cukup kirimkan HTTP POST sederhana ke endpoint kami dengan payload JSON.",
+    "endpointsHeading": "Endpoint API Utama",
+    "endpointsSubheading": "Dirancang menggunakan standar arsitektur RESTful modern dan keamanan token Bearer.",
+    "endpoints": [
+      {
+        "method": "POST",
+        "path": "/v1/messages/send",
+        "title": "Kirim Pesan Instan",
+        "description": "Kirim pesan teks personal, gambar beresolusi tinggi, dokumen katalog PDF, atau tombol interaktif.",
+        "tag": "Paling Populer"
+      },
+      {
+        "method": "POST",
+        "path": "/v1/messages/otp",
+        "title": "Kirim Kode Verifikasi OTP",
+        "description": "Jalur prioritas tinggi khusus OTP login atau verifikasi transaksi perbankan/e-commerce.",
+        "tag": "Prioritas Tinggi"
+      },
+      {
+        "method": "POST",
+        "path": "/v1/broadcasts",
+        "title": "Broadcast Massal Terjadwal",
+        "description": "Memicu blast promo otomatis ke ribuan nomor pelanggan dengan sistem antrean cerdas anti-banned.",
+        "tag": "Skala Besar"
+      },
+      {
+        "method": "GET",
+        "path": "/v1/messages/{id}/status",
+        "title": "Cek Status Pengiriman",
+        "description": "Dapatkan status pesan secara realtime: queued, sent, delivered, read, atau failed.",
+        "tag": "Realtime"
+      }
+    ],
+    "featuresHeading": "Mengapa Developer Memilih WAPromo API",
+    "featuresSubheading": "Infrastruktur tangguh yang siap menangani lonjakan jutaan pesan tanpa jeda.",
+    "features": [
+      {
+        "title": "Smart Anti-Banned Throttling",
+        "description": "Sistem rate-limiting cerdas otomatis menyesuaikan jeda pengiriman agar nomor Anda terhindar dari pemblokiran spam."
+      },
+      {
+        "title": "Webhooks Responsif & Aman",
+        "description": "Dapatkan payload JSON instan langsung ke server Anda saat pelanggan membalas pesan atau membaca chat."
+      },
+      {
+        "title": "Dukungan Multi-Language SDK",
+        "description": "Gunakan library siap pakai untuk Node.js, Python, PHP, Go, Java, dan cURL tanpa konfigurasi rumit."
+      },
+      {
+        "title": "Audit Log & Analitik Lengkap",
+        "description": "Lacak histori setiap request, response status, durasi proses, dan error log di dashboard developer."
+      }
+    ],
+    "ctaHeading": "Mulai Bangun Integrasi WhatsApp Anda Hari Ini",
+    "ctaSubheading": "Daftar akun pengembang sekarang dan nikmati kuota gratis 1.000 pesan untuk uji coba sandbox.",
+    "ctaButton": "Mulai Integrasi Sekarang",
+    "ctaNote": "✓ API Key langsung aktif · Sandbox testing instan · Tanpa kartu kredit"
+  },
+  "nightmare": {
+    "eyebrow": "● TANTANGAN OPERASIONAL TOKO ONLINE",
+    "heading": "Lelah Mengelola WhatsApp yang Berantakan dan Menguras Biaya?",
+    "subheading": "Inilah 4 tantangan utama yang dihadapi pemilik bisnis sebelum beralih ke WAPromo.",
+    "items": [
+      {
+        "title": "CS Bertabrakan Menangani Chat",
+        "desc": "Dua CS merespons pelanggan yang sama dari perangkat berbeda, memberikan info harga yang berbeda, dan membuat calon pembeli ragu lalu pergi.",
+        "impact": "Pelanggan batal berbelanja & koordinasi tim terganggu"
+      },
+      {
+        "title": "Pesan Malam Hari Tidak Terbalas",
+        "desc": "Calon pembeli menanyakan ketersediaan produk di luar jam kerja. Keesokan paginya, mereka sudah beralih membeli ke toko lain.",
+        "impact": "Kehilangan 30%-40% potensi transaksi"
+      },
+      {
+        "title": "Beban Biaya Per Pesan yang Mahal",
+        "desc": "Layanan berbasis per pesan mengenakan tarif untuk setiap bubble chat. Percakapan tanya-jawab yang panjang membuat biaya bulanan melonjak tinggi.",
+        "impact": "Biaya operasional meningkat tidak terduga"
+      },
+      {
+        "title": "Koneksi Terputus & Keranjang Tak Terbaca",
+        "desc": "Sesi koneksi terputus saat jam sibuk, dan pesanan keranjang katalog WhatsApp tidak terbaca dengan jelas oleh tim CS.",
+        "impact": "Pesanan tertunda dan menurunkan kepuasan pelanggan"
+      }
+    ]
+  },
+  "epiphany": {
+    "eyebrow": "● EFISIENSI & KETENANGAN WAPROMO",
+    "heading": "Toko Berjalan Rapi, Tim Bekerja Tenang, Omzet Mengalir 24 Jam",
+    "subheading": "Nikmati alur kerja yang tertata rapi, tim yang kompak, dan efisiensi biaya operasional yang nyata.",
+    "items": [
+      {
+        "title": "Penguncian Otomatis Anti-Tabrakan",
+        "desc": "Sistem penguncian otomatis memastikan satu chat hanya ditangani oleh satu CS yang bertugas. Mendukung 5 hingga 20 CS bekerja tertib.",
+        "benefit": "Koordinasi CS tertib & pencatatan komisi adil"
+      },
+      {
+        "title": "Asisten AI Ramah Standby 24 Jam",
+        "desc": "Di luar jam operasional, asisten AI menyapa dengan ramah, menjawab ketersediaan produk dari katalog resmi, dan memfasilitasi pesanan pelanggan.",
+        "benefit": "Penjualan tetap berjalan optimal 24 jam"
+      },
+      {
+        "title": "Kirim Ribuan Pesan Tanpa Biaya Tambahan",
+        "desc": "Bebas dari skema tarif per bubble chat. Kirim pesan sapaan, konfirmasi pesanan, dan penawaran berkala dengan biaya tetap yang terukur.",
+        "benefit": "Hemat jutaan rupiah setiap bulan"
+      },
+      {
+        "title": "Sangat Ringan di Semua Perangkat",
+        "desc": "Dapat diakses lancar melalui perangkat Android maupun laptop kerja. Hemat memori, responsif, dan langsung siap digunakan.",
+        "benefit": "Aktivasi instan dalam 10 detik tanpa syarat rumit"
+      }
+    ]
+  },
+  "savings": {
+    "eyebrow": "● SIMULASI HEMAT BIAYA",
+    "heading": "Bandingkan Uang yang Anda Hemat Setiap Bulan",
+    "subheading": "Investasi cerdas yang langsung membuat arus kas toko Anda jauh lebih sehat.",
+    "traditionalCost": "Rp 5.200.000 / bln",
+    "traditionalTag": "BIAYA TRADISIONAL / BSP (ARGO PER PESAN)",
+    "traditionalLabel": "Layanan Pesan Konvensional (Biaya per Pengguna + Tagihan per Pesan)",
+    "wapromoCost": "Rp 199.000 / bln",
+    "wapromoTag": "WAPROMO PRO (FLAT & HEMAT 96%)",
+    "wapromoLabel": "WAPromo Paket Pro (Flat Tanpa Batas Chat + 10 CS + AI 24 Jam)",
+    "differenceText": "Hemat Rp 5.000.000+ per bulan (96% Lebih Hemat)",
+    "note": "Dana hemat dapat dialokasikan untuk anggaran promosi atau insentif tim penjualan Anda."
+  },
+  "pillarsTeaser": {
+    "eyebrow": "● EKSPLORASI LEBIH JAUH",
+    "heading": "Semua yang Anda Butuhkan untuk Melejitkan WhatsApp Toko",
+    "subheading": "Pelajari fitur lengkap, pilihan harga transparan, atau panduan praktis kami.",
+    "items": [
+      {
+        "title": "Fitur Lengkap & Keunggulan",
+        "desc": "Pelajari bagaimana Multi-CS, Asisten AI 24 Jam, dan proteksi anti-blokir membantu operasional toko Anda.",
+        "action": "Jelajahi Fitur",
+        "href": "/fitur"
+      },
+      {
+        "title": "Paket Harga & Garansi",
+        "desc": "Pilih paket yang paling pas untuk skala tokomu. Tanpa biaya tersembunyi dan garansi kepuasan penuh.",
+        "action": "Lihat Pilihan Harga",
+        "href": "/harga"
+      },
+      {
+        "title": "Pusat Bantuan & Panduan",
+        "desc": "Mulai dalam 10 detik dengan panduan scan QR, tips jualan, dan tanya jawab seputar toko online.",
+        "action": "Buka Pusat Bantuan",
+        "href": "/bantuan"
+      }
+    ]
+  },
+  "featuresPage": {
+    "metaTitle": "Fitur Lengkap WhatsApp Multi-CS & AI Humanoid | WAPromo",
+    "metaDescription": "Kekuatan WhatsApp Multi-CS anti-tabrakan, asisten AI 24 jam, zero-storage media, dan proteksi pengiriman aman untuk bisnis online.",
+    "badge": "FITUR LENGKAP WAPROMO",
+    "titleLine1": "Semua Senjata Penjualan WhatsApp,",
+    "titleLine2": "Dalam Satu Tempat yang Rapi",
+    "lead": "Dirancang khusus untuk mengoptimalkan operasional komunikasi WhatsApp bagi toko online, restoran, klinik, dan bisnis jasa di Indonesia.",
+    "ctaPrimary": "Mulai Uji Coba Gratis",
+    "ctaSecondary": "Lihat Pilihan Harga",
+    "pillars": [
+      {
+        "tag": "MULTI-CS ANTI-TABRAKAN",
+        "title": "1 Nomor WhatsApp Digunakan Bersama oleh 5 hingga 20 CS Tanpa Tumpang-Tindih",
+        "desc": "Penguncian otomatis seketika saat CS membuka chat pelanggan. CS lain melihat tanda gembok dan nama petugas yang menangani.",
+        "bulletPoints": [
+          "Penguncian realtime mencegah respons ganda kepada pelanggan",
+          "Pencatatan aktivitas akurat dan adil untuk setiap CS",
+          "Indikator sedang mengetik tampil langsung di semua layar",
+          "Pemilik bisnis dapat memantau waktu respons seluruh CS secara langsung"
+        ]
+      },
+      {
+        "tag": "ASISTEN AI HUMANOID 24 JAM",
+        "title": "Respons Chat Otomatis 24 Jam dengan Bahasa yang Santun dan Profesional",
+        "desc": "Bukan sekadar bot kaku berbasis kata kunci. Asisten AI memahami katalog produk Anda, menjawab pertanyaan biaya kirim, dan membantu memfasilitasi transaksi.",
+        "bulletPoints": [
+          "Kecepatan respons instan di bawah 1 detik",
+          "Mode Bantuan: Mendukung penanganan pesan saat tim CS sedang sibuk",
+          "Ringkasan serah terima: CS melanjutkan percakapan tanpa meminta pelanggan mengulang",
+          "Akurat & terpercaya: Menjawab hanya berdasarkan data katalog resmi toko Anda"
+        ]
+      },
+      {
+        "tag": "ZERO-STORAGE MEDIA STREAMING",
+        "title": "Akses Ribuan Foto Bukti Pembayaran Tanpa Membebani Memori Perangkat",
+        "desc": "Tidak perlu khawatir penyimpanan perangkat penuh. Seluruh gambar bukti transfer, katalog produk, dan pesan suara dimuat secara cepat dan efisien.",
+        "bulletPoints": [
+          "Gambar bukti transfer jernih langsung tampil seketika",
+          "Dukungan rekaman pesan suara Voice Note (VN) yang jernih",
+          "Kapasitas media tanpa batasan kuota penyimpanan lokal",
+          "Aplikasi tetap ringan dan hemat pemakaian data"
+        ]
+      },
+      {
+        "tag": "PROTEKSI PENGIRIMAN AMAN",
+        "title": "Kirim Penawaran & Tindak Lanjut Pelanggan dengan Standar Keamanan Tinggi",
+        "desc": "Pengaturan ritme pengiriman cerdas dengan jeda alami, variasi pesan otomatis, dan panduan penggunaan nomor bisnis.",
+        "bulletPoints": [
+          "Jeda acak 8-15 detik yang menyerupai ritme pengetikan manusia",
+          "Variasi kata otomatis (spintax) untuk menjaga keunikan setiap pesan",
+          "Pesan tindak lanjut berkala untuk transaksi yang belum selesai",
+          "Pilihan berhenti berlangganan otomatis demi menjaga reputasi nomor bisnis"
+        ]
+      },
+      {
+        "tag": "NATIVE ORDER KERANJANG",
+        "title": "Rincian Keranjang Katalog WhatsApp Otomatis Menjadi Ringkasan Pembayaran",
+        "desc": "Pesanan keranjang katalog WhatsApp Business langsung diterjemahkan menjadi rincian produk dan total pembayaran yang rapi.",
+        "bulletPoints": [
+          "Rincian item, varian ukuran, dan kuantitas tersaji rapi",
+          "Tombol 1-klik untuk membuat ringkasan pembayaran pelanggan",
+          "Memprioritaskan pelanggan dengan intensi pembelian tinggi",
+          "Menghemat waktu pencatatan manual bagi tim operasional"
+        ]
+      },
+      {
+        "tag": "APLIKASI WEB PWA MODERN",
+        "title": "Akses Sangat Cepat di Perangkat Android Maupun Komputer Kerja",
+        "desc": "Dapat dipasang langsung ke layar utama perangkat tanpa perlu mengunduh aplikasi berukuran besar dari app store.",
+        "bulletPoints": [
+          "Akses instan dari Chrome di Android dan Safari di iPhone",
+          "0 KB download font eksternal: waktu muat instan seketika",
+          "Navigasi layar penuh yang nyaman digunakan di layar sentuh",
+          "Sinkronisasi otomatis yang stabil pada berbagai kondisi jaringan"
+        ]
+      }
+    ],
+    "ctaHeading": "Siap Merapikan Operasional WhatsApp Toko Anda?",
+    "ctaSubheading": "Tingkatkan kepuasan pelanggan dengan alur kerja yang rapi dan efisiensi biaya yang terukur.",
+    "ctaButton": "Coba Gratis"
+  },
+  "pricingPage": {
+    "metaTitle": "Paket Harga WAPromo | Investasi Terjangkau Tanpa Biaya Per Pesan",
+    "metaDescription": "Harga flat bulanan dan tahunan hemat 2 bulan. Mulai Rp 99.000/bln tanpa biaya per-pesan Meta dan tanpa kontrak mengikat.",
+    "badge": "PILIHAN PAKET INVESTASI",
+    "titleLine1": "Harga Flat dan Transparan,",
+    "titleLine2": "Bebas Biaya Per Pesan Selamanya",
+    "lead": "Pilih paket yang paling pas untuk skala tokomu. Nikmati kebebasan kirim pesan tanpa rasa cemas melihat tagihan.",
+    "monthlyToggle": "Bulanan",
+    "annualToggle": "Tahunan",
+    "annualBadge": "HEMAT 2 BULAN",
+    "comparisonHeading": "Perbandingan Nyata: WAPromo vs Layanan Konvensional",
+    "comparisonSubheading": "Lihat sendiri bagaimana WAPromo menyelamatkan arus kas dan efisiensi toko Anda.",
+    "comparisonRows": [
+      {
+        "feature": "Biaya Percakapan / Bubble Pesan",
+        "wapromo": "Rp 0 (Flat Bebas Chat)",
+        "others": "Rp 500 - Rp 700 / bubble (Biaya variabel tinggi)"
+      },
+      {
+        "feature": "Kapasitas Anggota CS",
+        "wapromo": "Hingga 20 CS di 1 Nomor",
+        "others": "Dikenakan biaya Rp 300k+ per user CS"
+      },
+      {
+        "feature": "Asisten AI Balas Malam Hari",
+        "wapromo": "Termasuk (Ramah & Pintar)",
+        "others": "Bayar add-on bot terpisah jutaan rupiah"
+      },
+      {
+        "feature": "Syarat Pendaftaran",
+        "wapromo": "Scan QR 10 Detik (Tanpa Berkas)",
+        "others": "Wajib PT, SIUP, NIB & Review Meta berminggu-minggu"
+      },
+      {
+        "feature": "Metode Pembayaran",
+        "wapromo": "QRIS, Transfer Bank BCA/Mandiri/BRI",
+        "others": "Wajib Kartu Kredit USD"
+      },
+      {
+        "feature": "Gembok Anti-Tabrakan Chat CS",
+        "wapromo": "Aktif Otomatis Realtime",
+        "others": "Sering bentrok di perangkat berbeda"
+      },
+      {
+        "feature": "Order Katalog WhatsApp",
+        "wapromo": "Terbaca Jelas & Auto Totalan",
+        "others": "Sering muncul bubble kosong (unknown)"
+      },
+      {
+        "feature": "Kontrak & Ikatan",
+        "wapromo": "Bebas Batal Kapan Saja",
+        "others": "Kontrak tahunan mengikat di depan"
+      }
+    ],
+    "guaranteeHeading": "Garansi 100% Kepuasan Pemilik Toko",
+    "guaranteeDesc": "Kami percaya pada kualitas produk kami. Anda bisa mencoba tanpa kartu kredit, dan bebas upgrade atau berhenti langganan kapan saja tanpa denda.",
+    "ctaHeading": "Mulai Hemat Jutaan Rupiah dari Hari Ini",
+    "ctaSubheading": "Hubungkan nomor toko Anda sekarang dan saksikan tim CS Anda bekerja 3x lebih cepat dan bahagia.",
+    "ctaButton": "Mulai Uji Coba Sekarang"
+  },
+  "helpPage": {
+    "metaTitle": "Pusat Bantuan & Panduan WAPromo | Cepat Mulai 10 Detik",
+    "metaDescription": "Panduan langkah demi langkah cara menghubungkan WhatsApp, mengundang CS, tips anti-blokir, dan jawaban atas pertanyaan umum.",
+    "badge": "PUSAT BANTUAN & PANDUAN",
+    "titleLine1": "Kami Siap Membantu Toko Anda,",
+    "titleLine2": "Setiap Langkah Menuju Sukses",
+    "lead": "Temukan panduan praktis, jawaban atas kendala umum, dan tips jualan laris di WhatsApp tanpa rasa pusing.",
+    "quickStartHeading": "3 Langkah Cepat Memulai dalam 1 Menit",
+    "quickStartSubheading": "Setup sangat mudah, tanpa perlu menginstal aplikasi berat atau mengurus berkas perusahaan.",
+    "quickStartSteps": [
+      {
+        "step": "01",
+        "title": "Scan QR Nomor WhatsApp Toko",
+        "desc": "Buka dashboard WAPromo di laptop atau HP, buka WhatsApp di HP tokomu, lalu scan QR code. Sesi langsung terhubung aman."
+      },
+      {
+        "step": "02",
+        "title": "Undang Anggota Tim CS",
+        "desc": "Kirim undangan ke email masing-masing CS. Mereka langsung bisa login di HP/laptop mereka sendiri tanpa perlu scan QR ulang."
+      },
+      {
+        "step": "03",
+        "title": "Aktifkan Asisten AI & Mulai Jualan",
+        "desc": "Atur pesan sapaan toko Anda dan biarkan AI membantu menjawab pelanggan saat tim Anda sedang beristirahat."
+      }
+    ],
+    "categories": [
+      {
+        "title": "Koneksi & Sesi WhatsApp",
+        "items": [
+          {
+            "question": "Apakah saya perlu punya PT atau SIUP untuk menghubungkan WhatsApp?",
+            "answer": "Sama sekali tidak perlu! WAPromo bekerja semudah Anda menghubungkan WhatsApp Web biasa. Cukup scan QR code dari HP toko Anda dalam 10 detik, dan sistem langsung aktif tanpa berkas legalitas apa pun."
+          },
+          {
+            "question": "Apakah HP toko saya harus selalu menyala dan terhubung internet?",
+            "answer": "Ya, agar koneksi sesi WhatsApp tetap stabil, pastikan HP utama toko Anda tetap memiliki baterai dan tersambung internet, layaknya Anda memakai WhatsApp Web sehari-hari."
+          },
+          {
+            "question": "Berapa lama proses scan QR sampai bisa digunakan?",
+            "answer": "Hanya membutuhkan waktu 5 sampai 10 detik. Begitu barcode berhasil dipindai dari kamera WhatsApp, seluruh daftar obrolan akan langsung tersinkronisasi ke dashboard tim CS Anda."
+          }
+        ]
+      },
+      {
+        "title": "Pengelolaan Tim & Anti-Tabrakan CS",
+        "items": [
+          {
+            "question": "Bagaimana sistem mencegah 2 CS membalas pelanggan yang sama?",
+            "answer": "WAPromo dilengkapi sistem Gembok Realtime (Atomic Claim). Saat CS Siti mengklik sebuah obrolan, obrolan tersebut seketika terkunci di layar CS lain dengan tanda merah 'Sedang ditangani Siti', dan tombol balas mereka otomatis terkunci."
+          },
+          {
+            "question": "Apakah CS saya perlu tahu password nomor WhatsApp toko?",
+            "answer": "Tidak perlu. CS masuk menggunakan akun email mereka masing-masing. Mereka tidak memiliki akses ke WhatsApp fisik Anda, sehingga kontak dan akun toko Anda tetap aman di tangan Anda sebagai pemilik."
+          },
+          {
+            "question": "Bisakah saya membatasi hak akses CS agar tidak bisa ekspor database kontak?",
+            "answer": "Bisa! WAPromo memiliki matriks izin kontrol penuh oleh Owner. Anda bisa mengaktifkan sensor nomor HP otomatis (masking), mematikan tombol ekspor kontak, dan membatasi izin broadcast untuk CS tertentu."
+          }
+        ]
+      },
+      {
+        "title": "Asisten AI & Pelayanan 24 Jam",
+        "items": [
+          {
+            "question": "Apakah Asisten AI bisa mengarang harga atau stok sembarangan?",
+            "answer": "Tidak bisa. Asisten AI WAPromo diatur dengan batasan ketat untuk hanya menjawab dari data katalog dan pengetahuan toko yang Anda masukkan. Jika tidak ada jawaban, AI akan dengan sopan meneruskannya ke tim CS Anda."
+          },
+          {
+            "question": "Kapan AI otomatis aktif?",
+            "answer": "Anda memiliki kendali penuh melalui 3 mode: Mode Selalu Aktif, Mode di Luar Jam Kerja (misal malam hari jam 21:00-08:00), atau Mode Luapan (AI hanya membantu jika pelanggan menunggu lebih dari 45 detik saat CS sibuk)."
+          }
+        ]
+      },
+      {
+        "title": "Keamanan & Pencegahan Banned",
+        "items": [
+          {
+            "question": "Apakah aman dari risiko pemblokiran nomor oleh WhatsApp?",
+            "answer": "Sangat aman selama digunakan untuk melayani pelanggan yang pernah berinteraksi. WAPromo menanamkan fitur Human Delay (jeda acak 8-15 detik) dan variasi kata otomatis untuk menjaga nomor bisnis Anda tetap sehat."
+          },
+          {
+            "question": "Apa tips memanaskan nomor baru (warm-up)?",
+            "answer": "Di minggu pertama, gunakan nomor untuk melayani chat masuk secara wajar (maksimal 20-50 pesan promo keluar per hari). Naikkan volume secara bertahap setiap minggu agar reputasi nomor terbentuk kuat."
+          }
+        ]
+      }
+    ],
+    "contactHeading": "Butuh Bantuan Langsung dari Tim Kami?",
+    "contactDesc": "Tim dukungan pelanggan WAPromo siap membantu kendala teknis dan membimbing setup toko Anda.",
+    "contactButton": "Chat Dukungan WhatsApp"
+  },
+  "blogPage": {
+    "metaTitle": "Blog & Edukasi WhatsApp Bisnis | WAPromo",
+    "metaDescription": "Kumpulan artikel praktis seputar WhatsApp marketing, strategi mengatur tim CS olshop, dan tips melipatgandakan closing penjualan.",
+    "badge": "BLOG & STRATEGI BISNIS",
+    "titleLine1": "Wawasan Praktis Jualan di WhatsApp,",
+    "titleLine2": "Langsung dari Pengalaman Lapangan",
+    "lead": "Pelajari tips, studi kasus nyata, dan strategi praktis untuk membantu tokomu closing lebih banyak orderan setiap hari.",
+    "featuredBadge": "ARTIKEL PILIHAN",
+    "readMore": "Baca Selengkapnya",
+    "backToBlog": "Kembali ke Blog",
+    "articles": [
+      {
+        "slug": "cara-mengatur-10-cs-whatsapp-tanpa-tabrakan",
+        "tag": "Manajemen Tim",
+        "readTime": "4 menit baca",
+        "title": "Strategi Mengatur Tim CS WhatsApp Tanpa Tumpang-Tindih Pelanggan",
+        "excerpt": "Pelajari bagaimana sistem pembagian chat atomik menjaga kepuasan pelanggan dan transparansi kinerja tim CS.",
+        "date": "20 Okt 2026"
+      },
+      {
+        "slug": "trik-closing-chat-jam-12-malam-asisten-ai",
+        "tag": "Otomasi Penjualan",
+        "readTime": "5 menit baca",
+        "title": "Strategi Toko Fashion Mengamankan Transaksi Malam Hari Menggunakan Asisten AI",
+        "excerpt": "Kisah nyata bagaimana brand retail meningkatkan omzet hingga 35% dengan mengaktifkan asisten AI cerdas di luar jam operasional.",
+        "date": "18 Okt 2026"
+      },
+      {
+        "slug": "panduan-whatsapp-marketing-anti-banned",
+        "tag": "Keamanan Nomor",
+        "readTime": "6 menit baca",
+        "title": "Panduan Keamanan WhatsApp Bisnis: Mengoptimalkan Pengiriman Pesan Penawaran",
+        "excerpt": "Pahami cara kerja jeda dinamis, variasi pesan spintax, dan tahapan pemanasan nomor baru agar promosi Anda selalu terkirim optimal.",
+        "date": "15 Okt 2026"
+      },
+      {
+        "slug": "hemat-5-juta-sebulan-tanpa-biaya-per-pesan",
+        "tag": "Efisiensi Bisnis",
+        "readTime": "4 menit baca",
+        "title": "Analisis Finansial: Bagaimana Bisnis Menghemat Hingga Rp 5 Juta per Bulan Tanpa Tagihan Per Pesan",
+        "excerpt": "Perbandingan menyeluruh antara skema tagihan per pesan dengan model langganan flat WAPromo yang jauh lebih efisien.",
+        "date": "12 Okt 2026"
+      }
+    ]
+  },
+  "ebookPage": {
+    "metaTitle": "Playbook WhatsApp Automation Gratis | WAPromo",
+    "metaDescription": "Download gratis Playbook WhatsApp Automation dan SOP Pelayanan Pelanggan untuk mengoptimalkan omzet bisnis Anda.",
+    "badge": "E-BOOK & PLAYBOOK GRATIS",
+    "titleLine1": "Download Playbook Praktis,",
+    "titleLine2": "WhatsApp Automation untuk Bisnis Berkembang",
+    "lead": "Panduan komprehensif langkah demi langkah membangun sistem komunikasi pelanggan yang optimal 24 jam dengan standar keamanan nomor bisnis.",
+    "bookTitle": "Playbook WhatsApp Automation untuk Bisnis Modern",
+    "bookSubtitle": "Panduan Praktis Mengatur Multi-CS, Mengoptimalkan Pelayanan 24 Jam, & Efisiensi Biaya Operasional",
+    "bookDesc": "Ditulis berdasarkan studi kasus nyata dari puluhan toko online di Indonesia. Panduan ini mengulas metode praktis dan teruji untuk meningkatkan efisiensi penjualan.",
+    "chaptersHeading": "Apa yang Akan Anda Pelajari di E-Book Ini:",
+    "chapters": [
+      "Bab 1: Analisis Alur Komunikasi WhatsApp & Titik Krusial Kehilangan Pelanggan",
+      "Bab 2: Membangun Struktur 1 Nomor untuk Multi-CS Tanpa Tumpang-Tindih Tugas",
+      "Bab 3: Mengoptimalkan Asisten AI dengan Bahasa yang Santun dan Menjual",
+      "Bab 4: Panduan Pengiriman Pesan Berkala dengan Standar Keamanan Akun",
+      "Bab 5: Standar Operasional Prosedur (SOP) Pelayanan Cepat dan Responsif",
+      "Bab 6: Template Pesan Tindak Lanjut untuk Pesanan yang Belum Selesai"
+    ],
+    "downloadButton": "Download E-Book Gratis (PDF)",
+    "downloadNote": "✓ File PDF instan langsung diunduh · Tanpa biaya · 100% Gratis",
+    "highlights": [
+      "68 Halaman Penuh Studi Kasus Nyata",
+      "Template Copywriting Chat Siap Pakai",
+      "Lembar Evaluasi KPI Kinerja CS",
+      "Cocok untuk Toko Fashion, F&B, Skincare, & Jasa"
+    ]
+  },
+  "registerOwnerPage": {
+    "metaTitle": "Daftar sebagai Owner",
+    "metaDescription": "Buat akun owner WAPromo untuk mengelola toko, WhatsApp, dan tim CS Anda.",
+    "badge": "AKUN OWNER",
+    "heading": "Mulai sebagai Owner",
+    "subheading": "Buat akun pemilik untuk mengelola toko, WhatsApp, dan tim CS Anda.",
+    "googleSignUp": "Daftar dengan Google",
+    "orDivider": "ATAU",
+    "ownerNameLabel": "Nama Lengkap",
+    "ownerNamePlaceholder": "Budi Santoso",
+    "businessNameLabel": "Nama Bisnis",
+    "businessNamePlaceholder": "Nama Toko / Bisnis",
+    "emailLabel": "Email",
+    "emailPlaceholder": "nama@gmail.com",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Password",
+    "phoneLabel": "Nomor WhatsApp",
+    "phonePlaceholder": "Nomor WhatsApp",
+    "countrySearchPlaceholder": "Cari negara atau kode (+62)...",
+    "countryEmptyText": "Negara tidak ditemukan",
+    "confirmPasswordLabel": "Konfirmasi Password",
+    "confirmPasswordPlaceholder": "Ulangi password",
+    "demoOwnerName": "Budi Santoso",
+    "demoBusinessName": "Kopi Senja",
+    "demoEmail": "budi@kopisenja.id",
+    "demoPhone": "81234567890",
+    "demoPassword": "WapromoDemo2026!",
+    "passwordMismatch": "Konfirmasi password belum sama.",
+    "submitLabel": "Daftar & buka dashboard demo",
+    "prototypeNote": "Data contoh hanya tersimpan selama sesi browser ini. Pendaftaran belum terhubung ke backend."
+  },
+  "dashboardPage": {
+    "metaTitle": "Inbox & Operasional",
+    "demoBadge": "DEMO WORKSPACE",
+    "workspace": "Ruang kerja",
+    "sidebar": {
+      "campaign": "Campaign",
+      "teamInbox": "Team Inbox",
+      "contacts": "Kontak",
+      "promoAI": "Astra",
+      "automation": "Otomatisasi",
+      "commerce": "Commerce",
+      "ads": "Iklan",
+      "analytics": "Analitik",
+      "channels": "Channel",
+      "watiAI": "Promo AI",
+      "connectors": "Konektor",
+      "developers": "Pengembang",
+      "settings": "Pengaturan",
+      "users": "Pengguna",
+      "accountDetails": "Detail Akun",
+      "academy": "Wati Academy",
+      "collapse": "Ciutkan",
+      "expand": "Bentangkan menu",
+      "collapseInbox": "Ciutkan navigasi inbox",
+      "expandInbox": "Bentangkan navigasi inbox",
+      "channelChildren": ["WhatsApp", "Instagram"],
+      "watiAIChildren": ["Copilot AI", "Aturan AI"],
+      "connectorChildren": ["API", "Webhook"]
+    },
+    "welcome": "Selamat datang,",
+    "welcomeBody": "Pantau percakapan pelanggan dan aktivitas tim dari satu tempat.",
+    "searchPlaceholder": "Cari percakapan...",
+    "scheduleDemo": "Jadwalkan demo",
+    "navOverview": "Ringkasan",
+    "navInbox": "Inbox",
+    "navContacts": "Kontak",
+    "navCampaigns": "Kampanye",
+    "navTeam": "Tim",
+    "navSettings": "Pengaturan",
+    "systemOnline": "Sistem aktif",
+    "connectedLabel": "WhatsApp terhubung",
+    "connectedNumber": "+62 812-9900-1234",
+    "newConversation": "Percakapan baru",
+    "logout": "Kembali ke pendaftaran",
+    "metrics": ["Percakapan terbuka", "Menunggu balasan", "Selesai hari ini", "Rata-rata respons"],
+    "inboxTitle": "Inbox tim",
+    "inboxDescription": "Percakapan terbaru dari pelanggan Anda",
+    "viewAll": "Lihat semua",
+    "conversationCountLabel": "Obrolan",
+    "activeConversationsLabel": "Obrolan aktif",
+    "inboxFolders": [
+      { "id": "all", "label": "Semua obrolan" },
+      { "id": "active", "label": "Obrolan aktif" },
+      { "id": "assigned", "label": "Ditugaskan kepada saya" },
+      { "id": "unassigned", "label": "Belum ditetapkan" },
+      { "id": "pending", "label": "Belum dibalas" },
+      { "id": "mentions", "label": "Sebut saya" }
+    ],
+    "channelsLabel": "CHANNEL",
+    "allChannels": "Semua channel",
+    "channelFilters": [
+      { "id": "whatsapp", "label": "WhatsApp" },
+      { "id": "instagram", "label": "Instagram" },
+      { "id": "messenger", "label": "Messenger" },
+      { "id": "whatsapp-calls", "label": "Panggilan WhatsApp" },
+      { "id": "webchat", "label": "Webchat" }
+    ],
+    "filterAll": "Semua",
+    "filterOpen": "Buka",
+    "filterUnread": "Belum dibaca",
+    "filterPending": "Tertunda",
+    "availableLabel": "Tersedia",
+    "threadStatusline": "Ringkasan Serah Terima Operator Dinonaktifkan",
+    "activateFeature": "Aktifkan fitur",
+    "sharedNumberNotice": "Anda sedang menggunakan nomor bersama",
+    "sharedNumberDescription": "Hubungkan channel Anda untuk membuka fitur, branding, dan pengalaman yang lebih baik.",
+    "connectChannel": "Hubungkan Channel",
+    "threadTabs": [
+      { "id": "messages", "label": "Pesan" },
+      { "id": "summary", "label": "Ringkasan Percakapan" },
+      { "id": "automation", "label": "Otomatisasi Kotak Masuk" },
+      { "id": "calls", "label": "Catatan panggilan" }
+    ],
+    "contactFieldLabels": { "name": "Nama", "phone": "Nomor Telepon", "source": "Sumber" },
+    "privacyNotice": "Sembunyikan nomor untuk keamanan",
+    "privacyAction": "Aktifkan sekarang",
+    "cxScoreLabel": "Skor CX",
+    "cxScoreStatus": "Baru",
+    "unavailableLabel": "Tidak tersedia",
+    "salesAttributesLabel": "Atribut Penjualan",
+    "contactAttributesLabel": "Atribut Kontak",
+    "emptyConversations": "Tidak ada percakapan yang cocok.",
+    "conversations": [
+      { "name": "Nadia Putri", "preview": "Kak, stok warna sage masih ada?", "time": "2 mnt", "category": "Produk", "initials": "NP", "unread": 2, "channel": "whatsapp" },
+      { "name": "Raka Pratama", "preview": "Terima kasih, pesanannya sudah sampai.", "time": "11 mnt", "category": "Pesanan", "initials": "RP", "unread": 0, "channel": "whatsapp" },
+      { "name": "Maya Lestari", "preview": "Boleh minta info pengiriman ke Bandung?", "time": "24 mnt", "category": "Pengiriman", "initials": "ML", "unread": 1, "channel": "instagram" },
+      { "name": "Dimas Saputra", "preview": "Saya ingin tahu promo minggu ini.", "time": "38 mnt", "category": "Promo", "initials": "DS", "unread": 0, "channel": "messenger" }
+    ],
+    "setupTitle": "Siapkan ruang kerja",
+    "setupDescription": "Selesaikan langkah awal untuk mulai mengelola operasional.",
+    "setupProgress": "1 dari 3 selesai",
+    "setupSteps": ["Hubungkan nomor WhatsApp", "Undang anggota tim", "Siapkan balasan cepat"],
+    "campaignTitle": "Kampanye aktif",
+    "campaignDescription": "Promo akhir pekan",
+    "campaignSentLabel": "Pesan terkirim",
+    "campaignReplyLabel": "Balasan masuk",
+    "teamTitle": "Tim bertugas",
+    "teamOnlineLabel": "anggota aktif",
+    "teamMembers": [
+      { "name": "Alya Rahma", "role": "Admin", "status": "Tersedia", "initials": "AR" },
+      { "name": "Fajar Akbar", "role": "Customer service", "status": "Menangani chat", "initials": "FA" },
+      { "name": "Nisa Amalia", "role": "Customer service", "status": "Tersedia", "initials": "NA" }
+    ],
+    "profileLabel": "Pemilik workspace",
+    "demoNotice": "Data contoh • tidak terhubung ke backend",
+    "thread": {
+      "lockNotice": "Dikunci oleh Anda. Tim tetap dapat melihat percakapan ini.",
+      "releaseLock": "Lepas kunci",
+      "resolveLabel": "Selesaikan",
+      "resolvedLabel": "Selesai",
+      "todayLabel": "HARI INI, 21 OKT 2026",
+      "assignedNotice": "Percakapan ditugaskan kepada Anda oleh PromoAI · 12:38",
+      "replyLabel": "Balas",
+      "noteLabel": "Catatan internal",
+      "composerPlaceholder": "Tulis balasan untuk Nadia...",
+      "sendLabel": "Kirim",
+      "customerDetails": "Detail pelanggan",
+      "customerSince": "Pelanggan sejak Agu 2026",
+      "totalOrders": "Total pesanan",
+      "lifetimeValue": "Total belanja",
+      "customerOrderValue": "04",
+      "customerLifetimeValue": "Rp 1,2 jt",
+      "overviewTab": "Ringkasan",
+      "ordersTab": "Pesanan 4",
+      "activityTab": "Aktivitas",
+      "contactInfo": "Info kontak",
+      "customerPhone": "+62 812-3456-7890",
+      "customerEmail": "nadia.pratama@gmail.com",
+      "customerLocation": "Jakarta Selatan, Indonesia",
+      "tagsLabel": "TAG",
+      "tags": ["VIP", "Pelanggan kembali", "Pencinta kopi"],
+      "assignedTo": "DITANGANI OLEH",
+      "agentName": "Alex Putra (Anda)",
+      "agentRole": "Tim penjualan",
+      "assistantTitle": "PromoAI",
+      "agentMaximizeLabel": "Perbesar panel",
+      "agentRestoreLabel": "Kembalikan ukuran panel",
+      "agentCollapseHistory": "Ciutkan riwayat",
+      "agentExpandHistory": "Buka riwayat",
+      "assistantStatus": "Copilot aktif",
+      "assistantDescription": "Balasan otomatis dijeda. AI siap membantu menyusun balasan dan merangkum percakapan.",
+      "assistantAction": "Lihat ringkasan AI",
+      "agentGreeting": "Ada yang bisa saya bantu?",
+      "agentRecentPrompt": "Tampilkan percakapan terbaru saya",
+      "agentLastChatsPrompt": "Siapa yang aktif dalam 7 hari terakhir?",
+      "agentSuggestionsPrompt": "Sarankan agen dari percakapan terbaru",
+      "agentPrivateChat": "Obrolan privat",
+      "agentAskPlaceholder": "Tanya tentang Team Inbox...",
+      "agentAskLabel": "Tanya",
+      "agentAgentsLabel": "Agen",
+      "agentNewChat": "Chat baru",
+      "agentRecentLabel": "TERBARU",
+      "agentEmptyHistory": "Belum ada chat — tanyakan sesuatu untuk memulai.",
+      "agentPrivateDescription": "Hanya Anda yang dapat melihat chat ini",
+      "agentNewAgent": "Agen baru",
+      "agentSuggestedTitle": "Agen yang disarankan",
+      "agentSuggestedBadge": "Berdasarkan {count} percakapan aktif",
+      "agentListTitle": "Agen yang Anda gunakan",
+      "agentListDescription": "Agen yang baru dipakai akan muncul di sini.",
+      "agentShowMore": "Tampilkan 6 agen lainnya",
+      "agentShowLess": "Tampilkan lebih sedikit",
+      "notesTitle": "CATATAN INTERNAL",
+      "noteText": "Menyukai keramik warna sage. Simpan alamat rumah untuk pesanan berikutnya.",
+      "latestActivity": "AKTIVITAS TERBARU",
+      "activityText": "Pesanan #SS-1028 dibuat hari ini · 12:41 oleh Alex",
+      "orderTitle": "Pesanan Anda dari Studio Supply",
+      "orderName": "Everyday Espresso Set",
+      "orderSubtitle": "Sage · 2 cangkir + 2 tatakan",
+      "orderPrice": "Rp 349.000",
+      "orderStatus": "Menunggu pembayaran",
+      "orderNumber": "PESANAN #SS-1028",
+      "orderSubtotal": "Rp 364.000 termasuk ongkir",
+      "quantityLabel": "Jml 1",
+      "outgoingTime": "12:40",
+      "followupTime": "12:42",
+      "incomingMessage": "Sempurna! Bisa kirim tautan pembayaran? Pakai alamat yang sama seperti pesanan terakhir saya. 😊",
+      "outgoingMessage": "Hai Nadia! Barangnya tersedia. Pengiriman Rp 15.000 dan membutuhkan 1–2 hari kerja. Saya siapkan pesanan Anda.",
+      "followupMessage": "Boleh kirimkan tautan pembayarannya?",
+      "backToInbox": "Kembali ke inbox"
+    }
+  },
+  "pwa": {
+    "installButton": "Instal Aplikasi",
+    "installingButton": "Menginstal WAPromo...",
+    "installTitle": "Pasang WAPromo",
+    "installDescription": "Pasang aplikasi ini di perangkat Anda agar lebih cepat diakses.",
+    "installIOSDescription": "Tambahkan aplikasi ke layar utama iPhone/iPad agar lebih mudah digunakan.",
+    "installIOSShareTitle": "1. Buka Menu Bagikan (Share)",
+    "installIOSShareDescription": "Ketuk ikon kotak dengan panah ke atas di bagian bawah layar Safari Anda.",
+    "installIOSAddTitle": "2. Tambahkan ke Layar Utama",
+    "installIOSAddDescription": "Gulir ke bawah, lalu pilih menu \"Tambahkan ke Layar Utama\" atau \"Add to Home Screen\".",
+    "installIOSConfirmTitle": "3. Konfirmasi Tambah",
+    "installIOSConfirmDescription": "Ketuk tombol \"Tambah\" atau \"Add\" di kanan atas untuk menyelesaikan.",
+    "installIOSBrowserTip": "Tips: Di iOS, fitur instalasi PWA bekerja paling lancar melalui browser bawaan Safari.",
+    "installAndroidDescription": "Pasang WAPromo di Android untuk akses instan dan pengalaman layar penuh.",
+    "installAndroidMenuTitle": "1. Buka Menu Browser",
+    "installAndroidMenuDescription": "Ketuk ikon titik tiga (⋮) di pojok kanan atas Chrome, atau cari ikon panah/instalasi di bilah atas.",
+    "installAndroidAddTitle": "2. Pilih Pasang Aplikasi",
+    "installAndroidAddDescription": "Ketuk opsi \"Tambahkan ke Layar Utama\" atau \"Instal Aplikasi\".",
+    "installAndroidConfirmTitle": "3. Konfirmasi Pasang",
+    "installAndroidConfirmDescription": "Tekan \"Instal\" pada pop-up konfirmasi. Aplikasi akan langsung muncul di beranda HP Anda.",
+    "installInAppWarningTitle": "Browser Dalam Aplikasi Terdeteksi",
+    "installInAppWarningDescription": "Aplikasi seperti Instagram, TikTok, atau WhatsApp membatasi pemasangan PWA. Ketuk ikon titik tiga (⋮) atau tombol bagikan, lalu pilih \"Buka di Browser Eksternal (Chrome / Safari)\".",
+    "installDetectedBadge": "Terdeteksi",
+    "installTabIOS": "iPhone (iOS)",
+    "installTabAndroid": "Android",
+    "installTabDesktop": "Komputer / Desktop",
+    "installBrowserTitle": "1. Ikon Instalasi Bilah Alamat",
+    "installBrowserDescription": "Klik ikon instalasi (komputer/panah) di sebelah kanan bilah alamat (address bar).",
+    "installBrowserClickTitle": "2. Atau Melalui Menu Browser",
+    "installBrowserClickDescription": "Klik menu titik tiga (⋮) di kanan atas browser > pilih \"Instal WAPromo\" (atau Simpan & Bagikan).",
+    "installDone": "Mengerti, terima kasih!",
+    "installingTitle": "WAPromo sedang dipasang...",
+    "installingStep0": "Menyiapkan dan mengunduh berkas aplikasi...",
+    "installingStep1": "Mendaftarkan WAPromo ke layar utama Android...",
+    "installingStep2": "Memverifikasi paket instalasi dengan sistem Android...",
+    "installingStep3": "Hampir selesai, memasang ikon aplikasi di perangkat...",
+    "installingBadge": "Proses Pemasangan Android",
+    "installingDesktopBadge": "Proses Pemasangan Aplikasi",
+    "installedTitle": "WAPromo berhasil dipasang!",
+    "installedMessage": "Sekarang Anda bisa membuka aplikasi dari layar utama.",
+    "installedBadge": "Pemasangan Berhasil",
+    "closeLabel": "Tutup"
+  },
+  "footer": {
+    "tagline": "Kelola percakapan, jaga konsistensi."
+  }
+}

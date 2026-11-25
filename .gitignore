@@ -1,0 +1,20 @@
+**/node_modules/
+**/.next/
+**/*.tsbuildinfo
+.env
+.env.*
+!.env.example
+
+# Playwright & Browser MCP artifacts (temporary logs & test reports)
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+.playwright-mcp/
+playwright/.cache/
+)(absurd-tapi-nyata/
+)(blueprint-wapromo/
+)(flow-chat/
+
+
+.vercel
